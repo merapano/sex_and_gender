@@ -1,4 +1,7 @@
+<!-- coding: utf-8 -->
+
 # Summary
 
 * [Introduction](README.md)
-* [Feminism](010-feminism.md)
+* [資本主義と家事労働](010-feminism.md)
+* [セックスとジェンダー](020-gender.md)
