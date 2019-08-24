@@ -1,5 +1,14 @@
 <!-- coding: utf-8 -->
 
-# Introduction
+<font size="6">Introduction
+</font>
+
+<!-- toc -->
+
+
+# はじめに
+
+この授業ノーツは
+
 
 
