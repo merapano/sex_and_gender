@@ -1,11 +1,11 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[meta title="男と女"]]
-
 ---
 title: 女と穢れ
 author: Satoshi Nakagawa
 ---
+
+[[meta title="男と女"]]
 
 
 # 序
