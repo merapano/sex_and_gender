@@ -2,6 +2,12 @@
 
 [[meta title="男と女"]]
 
+---
+title: 女と穢れ
+author: Satoshi Nakagawa
+---
+
+
 # 序
 
 ## 全体のみ通し：フェミニズム理論に対する人類学的異議申し 
@@ -65,25 +71,17 @@
 
 ## 凶兆としての女性
 
-### （千葉富崎）船霊は女神なので、女性を船にのせてはならな い。
-
-### 八丈島では女を船にのせることを忌む。
-
-### 島根県ひかわ郡北浜村でも女一人のせてはならないという。
-
-### （愛媛、宮窪）朝の出先を女に横切られたら凶
-
-### （愛媛、宮窪）塩を焼く釜を女が跨ぐことを忌む。
-
-### （三重、須賀利）女が敷居を踏んだり、砥石を跨ぐのを忌む
-
-### （愛媛、宮窪）船大工は女が砥石を跨ぐと、その石を使わない
-
-### （新潟、間瀬）船具を女が跨ぐと不漁
-
-### （鹿児島、大和）すべての魔物は犬・女・豚にばける
-
-### （宮城・大島）葬式からかえる場合も女だけ返さずに必ず男 をつける（魔物かも知れないから）
+- （千葉富崎）船霊は女神なので、女性を船にのせてはならな い。
+- 八丈島では女を船にのせることを忌む。
+- 島根県ひかわ郡北浜村でも女一人のせてはならないという。
+- （愛媛、宮窪）朝の出先を女に横切られたら凶
+- （愛媛、宮窪）塩を焼く釜を女が跨ぐことを忌む。
+- （三重、須賀利）女が敷居を踏んだり、砥石を跨ぐのを忌む
+- （愛媛、宮窪）船大工は女が砥石を跨ぐと、その石を使わない
+- （新潟、間瀬）船具を女が跨ぐと不漁
+- （鹿児島、大和）すべての魔物は犬・女・豚にばける
+- （宮城・大島）葬式からかえる場合も女だけ返
+  さずに必ず男 をつける（魔物かも知れないから）
 
  この他にも枚挙の暇がないくらいに例は数限りない。私の現在依拠している本『女
 の民俗誌』の著者瀬川清子自身、いやになっているくらいに。
@@ -537,8 +535,8 @@ _FL_END
 
 ### まとめ
 
-|:-------------|-------------:|
 | 異性間性行為 | 同性間性行為 |
+|:-------------|-------------:|
 | 精液の喪失   |   精液の獲得 |
 | 弱さ         |         活力 |
 | 老衰         |         成長 |
@@ -559,7 +557,7 @@ _FL_END
 
 −−＞生命力の減少
 
-|          |            |
+| 受け取り |     与える |
 |:---------|-----------:|
 | 子供     |         父 |
 | 若者     | 精液提供者 |
@@ -586,23 +584,25 @@ _FL_END
 
 # 参考文献
 
-## 金関丈夫『木馬と石牛』（角川）
+- 金関丈夫『木馬と石牛』（角川）
 
-## 青木恵理子「男と女」『文化人類学の入門』（世界思想社）
+- 青木恵理子「男と女」『文化人類学の入門』
+  （世界思想社）
 
-## 瀬川清子『女の民俗誌』（東書選書）
+- 瀬川清子『女の民俗誌』（東書選書）
 
-## 柄木田康之「ニューギニア高地における男と女の象徴性」『 女性人類学』（至文堂）
+- 柄木田康之「ニューギニア高地における男と女
+  の象徴性」『 女性人類学』（至文堂）
 
-## Kelly, Raymond 1976 'Witchcraft and secual relations: 
+- Kelly, Raymond 1976 'Witchcraft and secual
+  relations: An exploration in the social and
+  semantic implications of the structure of
+  belief' in: Brown, P and G.  Buchbinder
+  (eds) 1976 Man and Woman in teh New Guinea
+  Highlands. (American Anthropological
+  Association): 36-53
 
-An exploration in the social and semantic implications 
-of the structure of belief' in: Brown, P and G. 
-Buchbinder (eds) 1976 Man and Woman in teh New Guinea 
-Highlands. (American Anthropological Association): 
-36-53
-
-## Meggitt, M. J. 1964 Male-jfemale relationships in the 
-
-Highlands of Australian New Guinea American 
-Anthropologist 66 (Pt 2):204-224
+- Meggitt, M. J. 1964 Male-jfemale
+  relationships in the Highlands of
+  Australian New Guinea American
+  Anthropologist 66 (Pt 2):204-224
