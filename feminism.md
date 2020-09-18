@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: フェミニズム
-author: 
-date: 
----
+フェミニズム
+======
 
 # 序
 

@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 成人式
-author: 
-date: 
----
+成人式
+======
 
 # 序
 

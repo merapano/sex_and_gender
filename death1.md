@@ -1,10 +1,8 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 死の心情（死の人類学その１）
-author: 
-date: 
----
+死の心情（死の人類学その１）
+======
+- Author: Nakagawa Satoshi
 
 # 序：死の儀礼の人類学（メットカーフ：）
 

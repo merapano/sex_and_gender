@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 結婚
-author: 
-date: 
----
+結婚
+======
 
 パーターとジェニター
 

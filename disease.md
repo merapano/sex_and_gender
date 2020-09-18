@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 病気
-author: 
-date: 
----
+病気
+======
 
 （災因論）
 

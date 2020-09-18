@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 人間再生産理論
-author: 
-date: 
----
+人間再生産理論
+======
 
 # 序
 

@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: セックスとジェンダー
-author: 
-date: 
----
+セックスとジェンダー
+======
 
 # 序
 

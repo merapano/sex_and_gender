@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 男と女
-author: 
-date: 
----
+男と女
+======
 
 # 序
 

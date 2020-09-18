@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: 性
-author: 
-date: 
----
+性
+======
 
 # 序
 

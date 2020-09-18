@@ -1,10 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
----
-title: エンデの結婚
-author: 
-date: 
----
+エンデの結婚
+======
 
 # 民族誌的設定
 
