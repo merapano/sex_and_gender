@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="死の心情（死の人類学その１）"]]
+---
+title: 死の心情（死の人類学その１）
+author: 
+date: 
+---
 
 # 序：死の儀礼の人類学（メットカーフ：）
 

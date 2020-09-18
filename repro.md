@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="人間再生産理論,親族理論序説"]]
+---
+title: 人間再生産理論
+author: 
+date: 
+---
 
 # 序
 

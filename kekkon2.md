@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="エンデの結婚"]]
+---
+title: エンデの結婚
+author: 
+date: 
+---
 
 # 民族誌的設定
 

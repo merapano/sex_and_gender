@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="結婚"]]
+---
+title: 結婚
+author: 
+date: 
+---
 
 パーターとジェニター
 

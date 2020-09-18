@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="病気"]]
+---
+title: 病気
+author: 
+date: 
+---
 
 （災因論）
 

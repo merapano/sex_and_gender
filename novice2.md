@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="成人式（その２）"]]
+---
+title: 成人式（その２）
+author: 
+date: 
+---
 
 # ンドゥンバ（ニューギニア）族の男と女の成人式
 

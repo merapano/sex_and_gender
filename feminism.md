@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="フェミニズム"]]
+---
+title: フェミニズム
+author: 
+date: 
+---
 
 # 序
 

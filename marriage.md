@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="結婚,親族理論序論"]]
+---
+title: 結婚
+author: 
+date: 
+---
 
 # 序
 

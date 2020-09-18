@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="男と女"]]
+---
+title: 男と女
+author: 
+date: 
+---
 
 # 序
 

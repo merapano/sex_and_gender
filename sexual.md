@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="性"]]
+---
+title: 性
+author: 
+date: 
+---
 
 # 序
 

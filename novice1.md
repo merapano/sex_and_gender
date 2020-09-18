@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="成人式"]]
+---
+title: 成人式
+author: 
+date: 
+---
 
 # 序
 

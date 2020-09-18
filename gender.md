@@ -1,6 +1,10 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-[[!meta title="セックスとジェンダー"]]
+---
+title: セックスとジェンダー
+author: 
+date: 
+---
 
 # 序
 
