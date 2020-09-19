@@ -166,6 +166,7 @@ pestilential は「道徳的に有害な、
 流行病の隠喩を幾つか引き寄せることもある。
 
 <!comment>
+
 <!box>
 
 - 1347/8年
@@ -174,6 +175,7 @@ pestilential は「道徳的に有害な、
 
 
 </!box>
+
 </!comment>
 
 
