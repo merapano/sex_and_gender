@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 エンデの結婚
-======
+====
 
 # 民族誌的設定
 
@@ -57,3 +57,9 @@ _FL_END
 
 # 参考文献
 
+---
+title: 'エンデの結婚'
+lang: ja-JP
+
+draft: true
+---

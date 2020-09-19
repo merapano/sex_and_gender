@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 男と女
-======
+====
 
 # 序
 
@@ -652,3 +652,10 @@ Highlands. (American Anthropological Association):
 
 Highlands of Australian New Guinea American 
 Anthropologist 66 (Pt 2):204-224
+
+---
+title: '男と女'
+lang: ja-JP
+
+draft: true
+---

@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 性
-======
+====
 
 # 序
 
@@ -262,3 +262,10 @@ PCO  Ver 1.0   December 5, 1989 5:01 PM (created)
 #+END_EXAMPLE
 
 _BIBLIO_HERE
+
+---
+title: '性'
+lang: ja-JP
+
+draft: true
+---

@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 人間再生産理論
-======
+====
 
 # 序
 
@@ -436,13 +436,12 @@ a5         f3   d7        h2
 
 ## 継承の三つの型
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* M's clan (abusua) --> S, D
 	* F's tcina --> S // M's tcina --> D
 	* F' ntoro --> S, D
 
-slide_end -->
+</!box></!comment>
 
 ### Summary
 
@@ -573,3 +572,9 @@ Baughan). (cited in Leach 1969).
 
 Roberston.
 
+---
+title: '人間再生産理論'
+lang: ja-JP
+
+draft: true
+---

@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 成人式（その２）
-======
+====
 
 # ンドゥンバ（ニューギニア）族の男と女の成人式
 
@@ -11,8 +11,7 @@ INTRODUCTION (201)
 
  次のようなニューギニア高地に特徴的な民族誌的特徴を有する：
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* さつまいも耕作が生業、豚飼育、
 	* 豚交換、
 	* 父系イデオロギー、
@@ -20,7 +19,7 @@ INTRODUCTION (201)
 	* 絶え間ない戦争、
 	* 公的領域における男の優越（２０２）。
 
-slide_end -->
+</!box></!comment>
 
  Among these are primary dependence on sweet potato cultivation, pig
 husbandry and pork prestations (but not large-scale pig exchanges),
@@ -592,13 +591,12 @@ daughter) to the girl's mother, await the cue to start their performance.
 
 ### ２番目の踊り手
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* 一人のンラーセ（男装）
 	* ５人のクワーシ（中性装）
 	* 火の廻りを回る（追いかけるわけではない）
 
-slide_end -->
+</!box></!comment>
 
  呪医が作物の成長を身振り、手振りで示す。母親が、男性に危害を加えないように
 教育をする。
@@ -759,12 +757,11 @@ _FL_END
 
  男儀礼を用意するのは女たちである（補完性）
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* 女：「柔らかい部分」出産、食物の準備
 	* 男：「硬い部分」
 
-slide_end -->
+</!box></!comment>
 
  Women produce children, as men cannot; it remains for men to create
 society, and to make of children the adults that society needs... (231)
@@ -935,3 +932,10 @@ Los Angeles, London.
 
 MacCormack, C. P. and A. M. Strathern (eds) 1981 Nature, 
 Culture and Gender (Cambridge UP): 143-174
+
+---
+title: '成人式（その２）'
+lang: ja-JP
+
+draft: true
+---

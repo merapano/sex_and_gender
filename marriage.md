@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 結婚
-======
+====
 
 # 序
 
@@ -465,3 +465,9 @@ _FL_END
 
 辺繁治（編）１９８９『人類学的認識の冒険』同文館）
 
+---
+title: '結婚'
+lang: ja-JP
+
+draft: true
+---

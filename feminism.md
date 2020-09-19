@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 フェミニズム
-======
+====
 
 # 序
 
@@ -616,3 +616,9 @@ _FL_END
 
 ）『
 
+---
+title: 'フェミニズム'
+lang: ja-JP
+
+draft: true
+---

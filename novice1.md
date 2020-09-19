@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 成人式
-======
+====
 
 # 序
 
@@ -283,3 +283,9 @@ California Press: Berkeley, Los Angeles, London.
 MacCormack, C. P. and A. M. Strathern (eds) 1981 
 Nature, Cultナre and Gender (Cambridge UP): 143-174
 
+---
+title: '成人式'
+lang: ja-JP
+
+draft: true
+---

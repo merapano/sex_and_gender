@@ -1,7 +1,7 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
 セックスとジェンダー
-======
+====
 
 # 序
 
@@ -317,3 +317,9 @@ Ver 1.2   December 25, 1990 1:32 PM (new rm, pl)
 
 #+END_EXAMPLE
 
+---
+title: 'セックスとジェンダー'
+lang: ja-JP
+
+draft: true
+---
