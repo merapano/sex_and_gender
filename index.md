@@ -4,9 +4,9 @@
 # 自然と文化
 
 - [フェミニズム](010-feminism.html)
-- [020-gender(020-gender.html)
+- [020-gender](020-gender.html)
 - [030-woman](030-woman.html)
-- [death1](death1.html)
+- [死の心情](death1.html)
 - [death2](death2.html)
 - [disease](disease.html)
 - [feminism](feminism.html)
