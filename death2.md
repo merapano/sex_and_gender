@@ -1,7 +1,11 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-過渡としての死（死の人類学（その２））
-======
+---
+title: '過渡としての死（死の人類学（その２））'
+lang: ja-JP
+draft: true
+---
+
 
 # ヴァン・ジュネップの通過儀礼（学説２）
 
@@ -10,23 +14,20 @@
  一つの状態から他の状態への変化を含むあらゆる儀礼には、共通した構造がみられ
 る。
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	*  ある地位からの分離
 	* 周縁的境界的な時期
 	* 新しい地位への再統合
-
-slide_end -->
+</!box></!comment>
 
 ## 一・二・三理論
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* 死             ...  一つの区分 ...  婚姻
 	* 生／死         ...  二つの範疇 ...  未婚／既婚
 	* 生→臨終→死   ...  三つの段階 ...  未婚→婚約→既婚    
 
-slide_end -->
+</!box></!comment>
 
 ## 「残存説」からの脱皮
 
@@ -88,18 +89,16 @@ slide_end -->
 
 ## 霊魂、死霊、来世−エルツ再考
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* エルツの分析の三主題
 	* エルツの議論の応用−ボルネオのベラワン族
 	* 主題の変異型−マ・アニヤン族、トラジャ族、バリ人、イバン族、マンバイ族
 
-slide_end -->	
-
+</!box></!comment>
+	
 ## 死の儀礼と生の価値−通過儀礼再考
 
-<!-- slide_begin
-     
+<!comment><!box> 
 	* 死における生のテーマ
 	* エルツやヴァン・ジェネップの接近法に伴う問題
 	* バラ族における生の価値観
@@ -107,20 +106,20 @@ slide_end -->
 	* 解決−性交と再生
 	* 過渡と生
 
-slide_end -->
+</!box></!comment>
 
 # 参考文献
 
-## 内堀、山下『死の人類学』（弘文堂）
+『死の人類学』 [@uchibori_yamashita-shi] (内堀 \& 山下 2006)
 
-## 岩田（編）『生と死の人類学』（講談社）
+『死の人類学』 [@uchibori_yamashita-shi] (内堀 \& 山下 2006)
 
-## Ｒ．エルツ『死と右手の優越』
+『生と死の人類学』 [@z.ishikawa-iwata-sei] (石川 栄吉 \& 岩田 1985)
 
-## ファン・ヘネップ『通過儀礼』（弘文堂）
+『右手の優越---宗教的両極性の研究』 [@hertz-right-hand-j] (ロベール・エルツ 2001)
 
-## メットカーフ、ハッティントン『死の儀礼：葬送習俗の人類学的研 
+_The Rites of Passge_ [@gennep-passage] (Arnold van Gennep 1960)
 
-究』（池上、川村訳）（未来社）（ＯＩＵ　３８５／ＨＵ／１２４ 
-５）
+『死の儀礼―葬送習俗の人類学的研究』 [@metcalf-huntington-death-j] (ピーター メトカーフ \& リチャー ド ハンティントン 1996)
+( _Celebrations of Death: The Anthropology of Mortuary Ritual_ [@metcalf-huntington-death] (Metcalf \& Richard Huntington 1979))
 
