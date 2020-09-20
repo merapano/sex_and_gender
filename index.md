@@ -1,29 +1,39 @@
 <!-- -*- coding: utf-8 -*- -->
 
+# 雑
 
-# 自然と文化
-
-- [フェミニズム](010-feminism.html)
-- [020-gender](020-gender.html)
-- [030-woman](030-woman.html)
-- [死の心情](death1.html)
-- [death2](death2.html)
-- [disease](disease.html)
-- [feminism](feminism.html)
-- [funeral](funeral.html)
-- [gender](gender.html)
-- [kekkon2](kekkon2.html)
-- [kekkon](kekkon.html)
-- [marriage](marriage.html)
-- [novice1](novice1.html)
-- [novice2](novice2.html)
 - [README](README.html)
-- [repro](repro.html)
-- [sexual](sexual.html)
 - [SUMMARY](SUMMARY.html)
-- [woman](woman.html)
+
+
+# 性とは何か
+
+- [セックスとジェンダー](020-gender.html)
+- [セックスとジェンダー（たぶん同じ）](gender.html)
+- [女性](030-woman.html)
+- [女性（たぶん同じ）](woman.html)
+- [フェミニズム](010-feminism.html)
+- [フェミニズム（たぶん同じ）](feminism.html)
+- [セクシュアリティ](sexual.html)
+
+# 病と死について
+
+- [意味としての病](disease.html)
+- [死の心情 --- 死の人類学1](death1.html)
+- [過渡としての死 --- 死の人類学2](death2.html)
+- [葬式の人類学](funeral.html)
+
+# 人生のさまざまな儀礼
+
+- [結婚](marriage.html)
+- [結婚1](kekkon.html)
+- [結婚2](kekkon2.html)
+- [子供を生むこと](repro.html)
+- [成人式1](novice1.html)
+- [成人式2](novice2.html)
+
 
 ---
-lang: ja-JP
 title: 自然と文化
+lang: ja-JP
 ---
