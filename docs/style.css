@@ -9,10 +9,10 @@ body {
 /*    background: #FFFEEE; */
     background: white; 
     color: black;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     font-size: 13pt;
-    line-height: 130%;
+    line-height: 120%;
 /*    font-family: verdana, arial, helvetica, Sans-Serif; */
 }
 
@@ -26,7 +26,7 @@ body {
 h1 {
 /*  font-family: "comic sans ms", verdana, sans-serif;  */
     text-align: left;
-  margin-top: 5%; 
+    margin-top: 5%; 
 /*  margin-left: 10%; */
   margin-right: 10%;
   background: darkgray;
@@ -43,7 +43,7 @@ h2 {
   /*  margin-right: 10%; */
   background: gray;
   color: white;
-  
+  line-height: 110%;  
 }
 
 /* 
@@ -59,6 +59,7 @@ h2 {
 h3, h4, h5, h6 {
     /*    font-family: verdana, arial, helvetica, Sans-Serif;*/
     color: lightblue;
+  line-height: 105%;  
 }
 
 div.header p.status { text-align: right; }
@@ -84,13 +85,6 @@ address {
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
-}
-
-table { 
-/*  background-color: #EEEEEE; */
-    background-color: gainsboro;
-  /*  font-size: 11.5pt; */
-  font-size: 1em;
 }
 
 pre {
@@ -173,3 +167,11 @@ span.download {
 .boxed {
   border: 1px solid green ;
 }
+
+table { 
+/*  background-color: #EEEEEE; */
+    background-color: gainsboro;
+  /*  font-size: 11.5pt; */
+  font-size: 1em;
+}
+
