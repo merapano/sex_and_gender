@@ -8,12 +8,9 @@
 
 # 性とは何か
 
-- [セックスとジェンダー](020-gender.html)
-- [セックスとジェンダー（たぶん同じ）](gender.html)
-- [女性](030-woman.html)
-- [女性（たぶん同じ）](woman.html)
-- [フェミニズム](010-feminism.html)
-- [フェミニズム（たぶん同じ）](feminism.html)
+- [セックスとジェンダー](gender.html)
+- [女性](woman.html)
+- [フェミニズム](feminism.html)
 - [セクシュアリティ](sexual.html)
 
 # 病と死について
