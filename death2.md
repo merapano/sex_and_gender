@@ -158,16 +158,15 @@
 
 # 参考文献
 
-『死の人類学』 [@uchibori_yamashita-shi] (内堀 \& 山下 2006)
+[@uchibori_yamashita-shi] 
 
-『生と死の人類学』 [@z.ishikawa-iwata-sei] (石川 栄吉 \& 岩田 1985)
+[@z.ishikawa-iwata-sei]
 
-『右手の優越---宗教的両極性の研究』 [@hertz-right-hand-j] (ロベール・エルツ 2001)
+[@hertz-right-hand-j]
 
-_The Rites of Passge_ [@gennep-passage] (Arnold van Gennep 1960)
+[@gennep-passage] 
 
-『死の儀礼―葬送習俗の人類学的研究』 [@metcalf-huntington-death-j] (ピーター メトカーフ \& リチャー ド ハンティントン 1996)
-( _Celebrations of Death: The Anthropology of Mortuary Ritual_ [@metcalf-huntington-death] (Metcalf \& Richard Huntington 1979))
+[@metcalf-huntington-death] 
 
 
 ---
