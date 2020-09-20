@@ -1,9 +1,9 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-セックスとジェンダー
-====
+<!-- toc -->
 
 # 序
+
 
 この章は、イントロである。
 揺さぶりをかけることを第一目標とする。
@@ -53,11 +53,10 @@
 文化人類学は通文化的な資料を提出することにより、
 私たちの社会における男女の差異が普遍的で生得的なものでないことを
 示唆してきたといえる。
-([@eriko-otoko])
+([[bib/eriko-otoko]])
 
 ## 性の三つの意味
 
-<!-- slide_begin
 性の三つの意味
 	*
 	:
@@ -67,8 +66,6 @@
 
 	*
 	:
-
-slide_end -->
 
 ### sex
 
@@ -146,7 +143,7 @@ slide_end -->
 
 ### ヌア
 
-([@eriko-otoko])
+([[@eriko-otoko]])
 
 男として振舞う「女」−人間のメス−
 がアフリカのヌエルなど多くの文化に多数存在する。＋
@@ -176,15 +173,15 @@ slide_end -->
 すべての男性的仕事は女性によって取り行なわれることになる。
 彼女らは男の衣服を身に付け、牛の群れとともに暮らし、
 女性の不能を嘲る言葉を周囲の男たちに向かって投げつけるのである。
-([@ueshima-otoko] p.79--)
+([bib/ueshima-otoko] p.79--)
 
 ## オスが女
 
 ### トラジャ
 
-([@eriko-otoko]) 
+([[bib/eriko-otoko]]) 
 インドネシアのスラウェシのバレ・トラジャ族のあいだでは、
-女装をして女としてふるまう「男」---オスの人間---が数多くいた。＋
+女装をして女としてふるまう「男」---オスの人間---が数多くいた。++
 
 ＋バレ・トラジャ社会の男女間の分業は明確に区分されていた。
 男の職務は共同体を眼に見える敵から護ることであり、
@@ -204,7 +201,7 @@ slide_end -->
 
 男の呪術師はたいてい女の衣装を纏い、
 あるものは盲でびっこで情緒的に不安定である。
-([@ueshima-otoko] p.79--)
+([bib/ueshima-otoko] p.79--)
 
 ### チェクチェ族
 
@@ -220,7 +217,7 @@ slide_end -->
 女性の仕事である針仕事や皮みがきをはじめ、
 筋肉もすっかり女性的な感じになる。
 この段階になると、男の性的興味をひくことを
-求めるようになる。([@ueshima-otoko] p.102)
+求めるようになる。([bib/ueshima-otoko] p.102)
 
  [W. Bogoras, The Chukchee, G. E. Stechert, 
 1904-1910, pp.448-458.
@@ -235,7 +232,7 @@ slide_end -->
 そのある者は、女の衣服を身につけ、
 女の職業につくのだ。時には＜夫＞をとることさえあるという。
 
-([@ueshima-otoko] p.103)
+([bib/ueshima-otoko] p.103)
 
 ### ヌガジュ・ダヤク（植島：１０３）
 
@@ -243,7 +240,7 @@ slide_end -->
 男性祭司のバシル（「生むことの出来ない」の意）は、
 性的不能者であり、女の衣服を身に纏っているし、
 女性祭司バリアンは売淫をはたらくのである。
-([@ueshima-otoko] p.103)
+([bib/ueshima-otoko] p.103)
 
 ## 擬娩（クーバード）
 
@@ -256,7 +253,7 @@ slide_end -->
 
 ### クルタチ（メラネシア）
 
-妻の分娩とその後の６日間、
+妻の分娩とその後の６日
 夫は妻と同様隔離され、
 食物禁忌を守り、生業活動にも従事しない。
 （Ｂｌａｃｋｗｏｏｄ，１９３４）
@@ -266,7 +263,7 @@ slide_end -->
 ### くせやみ
 
  柳田國男の『産育習俗語彙』（１９３５年）に記されている。
-([@ueshima-otoko] p.108)
+([bib/ueshima-otoko] p.108)
 
 ### 精神分裂病の子供たち
 
@@ -278,44 +275,38 @@ slide_end -->
 ほぼ普遍的な要素のであって、
 万聖節の宵祭では、＜妊娠した＞男の子を見ることが出来るのだ。
 
-_BIBLIO_HERE
+	 $Id: gender.yaml,v 1.1.1.1 2008-11-28 03:02:47 satoshi Exp $
+	 $Log: gender.yaml,v $
+	 Revision 1.1.1.1  2008-11-28 03:02:47  satoshi
 
-#+BEGIN_CENTER
-Version History
-#+END_CENTER
-#+BEGIN_EXAMPLE
+	 Revision 1.1.1.1  2004/10/11 07:15:38  satoshi
+	 Initial import.
 
-$Id: gender.yaml,v 1.1.1.1 2008-11-28 03:02:47 satoshi Exp $
-$Log: gender.yaml,v $
-Revision 1.1.1.1  2008-11-28 03:02:47  satoshi
+	 Revision 1.1.1.1  2003/04/26 08:00:40  satoshi
+	 New cvs-repository (2003.04.26)
 
-Revision 1.1.1.1  2004/10/11 07:15:38  satoshi
-Initial import.
+	 Revision 1.1  2002/12/01 11:26:28  satoshi
+	 Moved from a deeper directory.
 
-Revision 1.1.1.1  2003/04/26 08:00:40  satoshi
-New cvs-repository (2003.04.26)
+	 Revision 1.1.1.1  2001/10/09 01:06:09  satoshi
+	 Initial import into CVS
 
-Revision 1.1  2002/12/01 11:26:28  satoshi
-Moved from a deeper directory.
+	 Revision 1.2  2001/06/24 02:56:51  satoshi
+	 Merged with a branch and the branch abolished.
 
-Revision 1.1.1.1  2001/10/09 01:06:09  satoshi
-Initial import into CVS
+	 Revision 1.1.1.1.2.1  2001/06/24 01:27:27  satoshi
+	 行志向。いくつかの引用文献。
 
-Revision 1.2  2001/06/24 02:56:51  satoshi
-Merged with a branch and the branch abolished.
+	 =====Old Pco=====
+	 Gender.Pco
+	 PCO Ver 1.0    April 16, 1990 3:58 PM (created, from 
+				Sexual.Pco)
+	 PCO Ver 1.1    May 21, 1990 10:01 PM (from Eriko's article 
+				on Sex and Gender)
+	 Ver 1.2   December 25, 1990 1:32 PM (new rm, pl)
 
-Revision 1.1.1.1.2.1  2001/06/24 01:27:27  satoshi
-行志向。いくつかの引用文献。
+	 #+END_EXAMPLE
 
-=====Old Pco=====
-Gender.Pco
-PCO Ver 1.0    April 16, 1990 3:58 PM (created, from 
-	       Sexual.Pco)
-PCO Ver 1.1    May 21, 1990 10:01 PM (from Eriko's article 
-	       on Sex and Gender)
-Ver 1.2   December 25, 1990 1:32 PM (new rm, pl)
-
-#+END_EXAMPLE
 
 ---
 title: 'セックスとジェンダー'
