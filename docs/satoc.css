@@ -6,8 +6,7 @@
  */
 
 body {
-/*    background: #FFFEEE; */
-    background: white; 
+    background: #FFFEEE;
     color: black;
     margin-left: 10%;
     margin-right: 10%;
@@ -16,49 +15,40 @@ body {
 /*    font-family: verdana, arial, helvetica, Sans-Serif; */
 }
 
-.title { 
+title { 
 /*  font-family: "comic sans ms", verdana, sans-serif;  */
   text-align: center;
-  color: white;
-  background: lightblue;
+  color: navy;
 }
 
 h1 {
 /*  font-family: "comic sans ms", verdana, sans-serif;  */
-    text-align: left;
+  text-align: center;
   margin-top: 5%; 
 /*  margin-left: 10%; */
   margin-right: 10%;
-  background: darkgray;
-  color: white;
+  color: navy;
   line-height: 120%;
 }
 
 h2 {
 /*  font-family: "comic sans ms", verdana, sans-serif; */
 /*  text-align: center; */
-  text-align: left;
   margin-top: 5%;
-  /*  margin-left: 10%;  */
-  /*  margin-right: 10%; */
-  background: gray;
-  color: white;
+/*  margin-left: 10%;  */
+/*  margin-right: 10%; */
+  color: blue;
   
 }
 
-/* 
+h3, h4, h5, h6 {
+/*    font-family: verdana, arial, helvetica, Sans-Serif;*/
+}
 
 h2 {
   color: #FFFFFF;
   background: navy; 
   text-align: left;
-}
-
-*/
-
-h3, h4, h5, h6 {
-    /*    font-family: verdana, arial, helvetica, Sans-Serif;*/
-    color: lightblue;
 }
 
 div.header p.status { text-align: right; }
@@ -87,9 +77,8 @@ address {
 }
 
 table { 
-/*  background-color: #EEEEEE; */
-    background-color: gainsboro;
-  /*  font-size: 11.5pt; */
+  background-color: #EEEEEE;
+/*  font-size: 11.5pt; */
   font-size: 1em;
 }
 
