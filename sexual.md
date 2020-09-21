@@ -224,54 +224,6 @@ p. 306）
 
 処女であることが婚資の多寡を決定するという。
 
-#+BEGIN_CENTER
-Version History
-#+END_CENTER
-#+BEGIN_EXAMPLE
-
-$Id: sexual.yaml,v 1.1.1.1 2008-11-28 03:02:47 satoshi Exp $
-$Log: sexual.yaml,v $
-Revision 1.1.1.1  2008-11-28 03:02:47  satoshi
-
-Revision 1.1.1.1  2004/10/11 07:15:38  satoshi
-Initial import.
-
-Revision 1.1.1.1  2003/04/26 08:00:40  satoshi
-New cvs-repository (2003.04.26)
-
-Revision 1.1  2002/12/01 11:26:28  satoshi
-Moved from a deeper directory.
-
-Revision 1.1.1.1  2001/10/09 01:06:09  satoshi
-Initial import into CVS
-
-Revision 1.2  2001/06/24 02:56:51  satoshi
-Merged with a branch and the branch abolished.
-
-Revision 1.1.1.1.2.2  2001/06/24 02:29:48  satoshi
-いくつかのファイルを行志向にした。
-
-Revision 1.1.1.1.2.1  2001/06/24 01:07:19  satoshi
-行志向変更完成。
-
-Revision 1.1.1.1  2001/01/19 10:49:23  satoshi
-Sex and Gender. Lecture notes (at OIU/early 1990s).
-
-=================
-
-Revision 2.1  2000/10/30 01:40:49  satoshi
- Converted from PCO
-
-=====Old Pco=====
-Sexual.Pco
-PCO  Ver 1.0   December 5, 1989 5:01 PM (created)
-     Ver 1.1   April 16, 1990 4:02 PM (addition from Sudoh, 
-	       delete parts about sex&gender -> gender.pco)
-     Ver 1.2   June 4, 1990 2:51 PM (sorted again)
-
-#+END_EXAMPLE
-
-_BIBLIO_HERE
 
 ---
 title: '性'
