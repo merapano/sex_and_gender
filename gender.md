@@ -58,15 +58,12 @@
 ## 性の三つの意味
 
 性の三つの意味
-	*
-	:
 
-	*
-	:
-
-	*
-	:
-
+ - sex
+ - gender
+ - sexuility
+ 
+ 
 ### sex
 
 生物学的なカテゴリーで、
@@ -274,38 +271,6 @@
 出産行為の演技はイニシエーション儀礼（成人式）に
 ほぼ普遍的な要素のであって、
 万聖節の宵祭では、＜妊娠した＞男の子を見ることが出来るのだ。
-
-	 $Id: gender.yaml,v 1.1.1.1 2008-11-28 03:02:47 satoshi Exp $
-	 $Log: gender.yaml,v $
-	 Revision 1.1.1.1  2008-11-28 03:02:47  satoshi
-
-	 Revision 1.1.1.1  2004/10/11 07:15:38  satoshi
-	 Initial import.
-
-	 Revision 1.1.1.1  2003/04/26 08:00:40  satoshi
-	 New cvs-repository (2003.04.26)
-
-	 Revision 1.1  2002/12/01 11:26:28  satoshi
-	 Moved from a deeper directory.
-
-	 Revision 1.1.1.1  2001/10/09 01:06:09  satoshi
-	 Initial import into CVS
-
-	 Revision 1.2  2001/06/24 02:56:51  satoshi
-	 Merged with a branch and the branch abolished.
-
-	 Revision 1.1.1.1.2.1  2001/06/24 01:27:27  satoshi
-	 行志向。いくつかの引用文献。
-
-	 =====Old Pco=====
-	 Gender.Pco
-	 PCO Ver 1.0    April 16, 1990 3:58 PM (created, from 
-				Sexual.Pco)
-	 PCO Ver 1.1    May 21, 1990 10:01 PM (from Eriko's article 
-				on Sex and Gender)
-	 Ver 1.2   December 25, 1990 1:32 PM (new rm, pl)
-
-	 #+END_EXAMPLE
 
 
 ---
