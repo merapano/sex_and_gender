@@ -6,47 +6,60 @@
  */
 
 body {
-    background: #FFFEEE;
+/*    background: #FFFEEE; */
+    background: white; 
     color: black;
-    margin-left: 10%;
-    margin-right: 10%;
-    font-size: 12pt; 
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 13pt;
+    line-height: 120%;
 /*    font-family: verdana, arial, helvetica, Sans-Serif; */
 }
 
-title { 
+.title { 
 /*  font-family: "comic sans ms", verdana, sans-serif;  */
   text-align: center;
-  color: navy;
+  color: white;
+  background: lightblue;
 }
 
 h1 {
 /*  font-family: "comic sans ms", verdana, sans-serif;  */
-  text-align: center;
-  margin-top: 5%; 
+    text-align: left;
+    margin-top: 5%; 
 /*  margin-left: 10%; */
   margin-right: 10%;
-  color: navy;
+  background: darkgray;
+  color: white;
+  line-height: 120%;
 }
 
 h2 {
 /*  font-family: "comic sans ms", verdana, sans-serif; */
 /*  text-align: center; */
+  text-align: left;
   margin-top: 5%;
-/*  margin-left: 10%;  */
-/*  margin-right: 10%; */
-  color: blue;
-  
+  /*  margin-left: 10%;  */
+  /*  margin-right: 10%; */
+  background: gray;
+  color: white;
+  line-height: 110%;  
 }
 
-h3, h4, h5, h6 {
-/*    font-family: verdana, arial, helvetica, Sans-Serif;*/
-}
+/* 
 
 h2 {
   color: #FFFFFF;
   background: navy; 
   text-align: left;
+}
+
+*/
+
+h3, h4, h5, h6 {
+    /*    font-family: verdana, arial, helvetica, Sans-Serif;*/
+    color: lightblue;
+  line-height: 105%;  
 }
 
 div.header p.status { text-align: right; }
@@ -72,12 +85,6 @@ address {
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
-}
-
-table { 
-  background-color: #EEEEEE;
-/*  font-size: 11.5pt; */
-  font-size: 1em;
 }
 
 pre {
@@ -160,3 +167,11 @@ span.download {
 .boxed {
   border: 1px solid green ;
 }
+
+table { 
+/*  background-color: #EEEEEE; */
+    background-color: gainsboro;
+  /*  font-size: 11.5pt; */
+  font-size: 1em;
+}
+
