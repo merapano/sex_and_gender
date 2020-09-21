@@ -168,10 +168,32 @@ span.download {
   border: 1px solid green ;
 }
 
+/* 
+
 table { 
-/*  background-color: #EEEEEE; */
-    background-color: gainsboro;
-  /*  font-size: 11.5pt; */
-  font-size: 1em;
+background-color: gainsboro;
+font-size: 1em;
 }
+
+table { 
+background-color: #EEEEEE; 
+font-size: 11.5pt; 
+}
+
+ */
+
+thead th {
+  color: white;
+  background-color: gray;
+  padding: .5em; }
+
+td {
+  padding: .2em .4em; }
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2; }
+
+tr:nth-child(even) {
+  background-color: #d9d9d9; }
+
 
