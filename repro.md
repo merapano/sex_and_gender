@@ -1,5 +1,6 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
+
 # 序
 
  出自理論をとるにせよ、縁組理論をとるにせよ、最も大切なのは「結婚」である。
@@ -362,26 +363,25 @@ Talmud, Kiddush 30 b.
 
  親族カテゴリー
 
-#+BEGIN_example
 
-Shimanchu（シマ人）--> Tashimanchu（他シマ人）
-+--------------------------------------------+
-|      Tuusan Weeka（遠い親類）              |
-|    +----------------------------------+    |
-|    |          Weeka（親類）           |    |
-|    |    +------------------------+    |    |
-|    |    |      Choodeebi         |    |    |
-|    |    |    +--------------+    |    |    |
-|    |    |    |   Yaa（家）  |    |    |    |
-|    |    |    |    +----+    |    |    |    |
-|    |    |    |    | Ego|    |    |    |    |
-|    |    |    |    +----+    |    |    |    |
-|    |    |    +--------------+    |    |    |
-|    |    +------------------------+    |    |
-|    +----------------------------------+    |
-+--------------------------------------------+
+    Shimanchu（シマ人）--> Tashimanchu（他シマ人）
+    +--------------------------------------------+
+    |      Tuusan Weeka（遠い親類）              |
+    |    +----------------------------------+    |
+    |    |          Weeka（親類）           |    |
+    |    |    +------------------------+    |    |
+    |    |    |      Choodeebi         |    |    |
+    |    |    |    +--------------+    |    |    |
+    |    |    |    |   Yaa（家）  |    |    |    |
+    |    |    |    |    +----+    |    |    |    |
+    |    |    |    |    | Ego|    |    |    |    |
+    |    |    |    |    +----+    |    |    |    |
+    |    |    |    +--------------+    |    |    |
+    |    |    +------------------------+    |    |
+    |    +----------------------------------+    |
+    +--------------------------------------------+
 
-#+END_example
+
 
  チョーデービ（兄弟）
 
@@ -580,23 +580,25 @@ abusua-X       |         abusua-Y
 
 # 参考文献
 
-[@sugishima-shinzoku]
-[@sudoh-sexuality]
-[@ls-elementary]
-[@ls-elementary-j-1]
-[@ls-elementary-j-2]
-[@ls-elementary-j-new]
-[@leach-virgin]
-[@malinowski-sexual-life-j]
-[@shimizu-89]
-[@tanaka-shutuji]
-[@hicks-fishing_hook]
-[@roth-superstition]
-[@meggit-desert]
+
+- [@sugishima-shinzoku]
+- [@sudoh-sexuality]
+- [@ls-elementary]
+- [@ls-elementary-j-1]
+- [@ls-elementary-j-2]
+- [@ls-elementary-j-new]
+- [@leach-virgin]
+- [@malinowski-sexual-life-j]
+- [@shimizu-89]
+- [@tanaka-shutuji]
+- [@hicks-fishing_hook]
+- [@roth-superstition]
+- [@meggit-desert]
+
 
 ---
 title: '人間再生産理論'
+author: 中川敏
 lang: ja-JP
-
 draft: true
 ---
