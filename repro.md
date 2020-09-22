@@ -1,8 +1,5 @@
 <!-- -*- coding: utf-8; mode: markdown -*- -->
 
-人間再生産理論
-====
-
 # 序
 
  出自理論をとるにせよ、縁組理論をとるにせよ、最も大切なのは「結婚」である。
@@ -59,12 +56,19 @@
 
 ## オーストラリア原住民（アボリジン）（タリー・リヴァー・ブラックス）
 
- A woman begets children because (a) she has been sitting over the fire on
-which she has roasted a particular species of black bream, which must have
-been given to her by the prospective father, (b) she has purposely gon
-a-hunting and caught a certain kind of bullfrog, (c) some men may have told
-her to be in an interesting condition, or (d) she may dream of having the
-child put inside her' ( Roth, W. E. 1903 p.22)
+>  A woman begets children because (a) she
+> has been sitting over the fire on which she
+> has roasted a particular species of black
+> bream, which must have been given to her by
+> the prospective father, (b) she has
+> purposely gon a-hunting and caught a
+> certain kind of bullfrog, (c) some men may
+> have told her to be in an interesting
+> condition, or (d) she may dream of having
+> the child put inside her' ( Roth,
+> W. E. 1903 p.22)
+
+<comment>Roth?</comment>
 
  北西クイーンズランドのアボリジニにおける考え方：
 
@@ -106,27 +110,41 @@ _MC(日本の結婚式の公式的解釈について。)
 
 ## キンバーリー（オーストラリア原住民）（カバリー）
 
- The Kimberley natives said that spirit children were created long ago by
-the Rainbow Serpent and 'temporarily incarnated in animals, birds, fish,
-reptiles.  Some say the spirit children are like children the size of a
-walnut; others that they resemble small red frogs. Conception occurs when
-one of these enters a woman.  Its presence in the food given her by her
-husband makes her voimt, and later he dreams of it or else of some animal
-which he associates with it.  It enters his wife by the foot and she becomes
-pregnatn.  The food which made her ill becomes the djerin, conception totem
-of her child.'
+>  The Kimberley natives said that spirit
+> children were created long ago by the
+> Rainbow Serpent and 'temporarily incarnated
+> in animals, birds, fish, reptiles.  Some
+> say the spirit children are like children
+> the size of a walnut; others that they
+> resemble small red frogs. Conception occurs
+> when one of these enters a woman.  Its
+> presence in the food given her by her
+> husband makes her voimt, and later he
+> dreams of it or else of some animal which
+> he associates with it.  It enters his wife
+> by the foot and she becomes pregnatn.  The
+> food which made her ill becomes the djerin,
+> conception totem of her child.'
 
- 'The husband of the woman is the social fahter of the child and as a rule
-its spiritual genitor, for it sometimes happens that the woman finds the
-djerin herself or that it is given to her by another man.  THe latter however
-will not dream of the spirit child, nor have access to the woman sexually or
-exercise any rights over the child, who will take the country and the totems
-of the woman's husband. There were also instances where alghough the husband
-himself had found the djerin he did not afterwards dream of the child.  But
-his wife would then assert that she had done so.' 'Questioned on the function
-of sexual intercourse natives admitted that it prepared the way for the entry
-of the spirit child.  They asserted that a young girl could not bear
-children.'
+>  'The husband of the woman is the social
+> fahter of the child and as a rule its
+> spiritual genitor, for it sometimes happens
+> that the woman finds the djerin herself or
+> that it is given to her by another man.
+> THe latter however will not dream of the
+> spirit child, nor have access to the woman
+> sexually or exercise any rights over the
+> child, who will take the country and the
+> totems of the woman's husband. There were
+> also instances where alghough the husband
+> himself had found the djerin he did not
+> afterwards dream of the child.  But his
+> wife would then assert that she had done
+> so.' 'Questioned on the function of sexual
+> intercourse natives admitted that it
+> prepared the way for the entry of the
+> spirit child.  They asserted that a young
+> girl could not bear children.'
 
 ## 「けいけんな」我々と「馬鹿な」彼ら
 
@@ -181,39 +199,47 @@ Talmud, Kiddush 30 b.
 
 ### 処女懐胎の構造分析
 
-#+BEGIN_example
 
-          <---------------------------------------->
-          Trobriand   Isaac/John the Baptist   Jesus
+              <---------------------------------------->
+              Trobriand   Isaac/John the Baptist   Jesus
 
-child     normal         abnormal            abnormal
-mother    normal         normal              abnormal
-                         woman long past the
-                          age of child-birth
+    child     normal         abnormal            abnormal
+    mother    normal         normal              abnormal
+                             woman long past the
+                              age of child-birth
 
-#+END_example
+
 
  この後、Leach はとても面白そうな構造的変形の
 可能性を示唆する。それはここでは関係ない。
 
 # さまざまな生殖理論(文化のドグマ)
 
-## つけたし（ヤップの場合）（清水：５７−８）
+## つけたし（ヤップの場合）
 
-# 日本の場合（民俗学的に）          
+[@shimizu-89] p. 57--8
+[@shimizu-89 p. 57--8]
+
+# 日本の場合（民俗学的に）
 
 ## 「血」
 
-### 「血は争えない」（田中）
+### 「血は争えない」
+
+[@tanaka-shutuji]
 
  親と子、または遠い親戚の間に何か思いがけない共通点を見いだすと、「血はあら
 そえないもんだね」などと感心する。
 
-### 「悪い血」（田中）
+### 「悪い血」
 
- 結婚によって「悪い血が導入される」−−「血」は母方からも受け継ぐ。
+[@tanaka-shutuji]
+
+結婚によって「悪い血が導入される」−−「血」は母方からも受け継ぐ。
 
 ### 血をわけたキョウダイ（清水：４５）
+
+[@shimizu-89, p. 45]
 
 ### 「血のつながった」親戚（清水：４５）
 
@@ -255,25 +281,40 @@ mother    normal         normal              abnormal
 
 ## 自然主義と非自然主義
 
- このような［ヌアの亡霊婚のような］婚姻制度を持つ社会では、妻（子どもにとっ
-ての母）との性的関係、子どもとの生殖の関係が、社会的父であるための不可欠の条件
-とはされていないのだ。（清水：５１−２）
+> このような［ヌアの亡霊婚のような］婚姻制度
+> を持つ社会では、妻（子どもにとっての母）と
+> の性的関係、子どもとの生殖の関係が、社会的
+> 父であるための不可欠の条件とはされていない
+> のだ。（清水：５１−２）
 
- 近代社会においても、身体的な生殖の関係の認識によって、自動的に父子関係が確
-定するのではない。公的な届出によって、改めて法的に父子関係が認定されるのである
-から、父子関係は民俗的文化像に相当する位置にある。しかしながら、だからといって
-、身体的関係と無関係に、法的な父子関係を設定し得るわけではない。婚姻関係にある
-間に妻に生まれた子供は、夫の身体的子供と推定するとの前提にたった認知であり、公
-的認定である。それゆえ、この推定に明らかに反する事例にあっては、生物的父を自認
-する男が、法的に子供を認知して、社会的父の位置に登ることが出来る。　近代社会は
-、法的なレベルの父子関係を、身体的な父子関係−−その認識−−を基礎に構成してい
-るのであり、両者が異なる位相の関係であるとしても、前者は可能な限り後者に一致す
-ることが求められている。社会が認識する身体的関係に基礎づけて、親族を構成すると
-いう意味で、近代社会は自然主義的な親族館に従っているといえよう。それに対し、さ
-きにみた「女性婚」などを行なう社会は、身体的レベルに認識される親族関係と相関さ
-せずとも、純粋に文化的レベルで（「文化の自画像」のレベル）で親族を構成し得るこ
-とを、みごとに例示している。自然主義を避けているという意味で、このような親族の
-構成を非自然主義と称することにしよう。（清水：５２−３）
+>  近代社会においても、身体的な生殖の関係の認
+> 識によって、自動的に父子関係が確定するので
+> はない。公的な届出によって、改めて法的に父
+> 子関係が認定されるのであるから、父子関係は
+> 民俗的文化像に相当する位置にある。しかしな
+> がら、だからといって、身体的関係と無関係に、
+> 法的な父子関係を設定し得るわけではない。婚
+> 姻関係にある間に妻に生まれた子供は、夫の身
+> 体的子供と推定するとの前提にたった認知であ
+> り、公的認定である。それゆえ、この推定に明
+> らかに反する事例にあっては、生物的父を自認
+> する男が、法的に子供を認知して、社会的父の
+> 位置に登ることが出来る。　近代社会は、法的
+> なレベルの父子関係を、身体的な父子関係−−
+> その認識−−を基礎に構成しているのであり、
+> 両者が異なる位相の関係であるとしても、前者
+> は可能な限り後者に一致することが求められて
+> いる。社会が認識する身体的関係に基礎づけて、
+> 親族を構成するという意味で、近代社会は自然
+> 主義的な親族館に従っているといえよう。それ
+> に対し、さきにみた「女性婚」などを行なう社
+> 会は、身体的レベルに認識される親族関係と相
+> 関させずとも、純粋に文化的レベルで（「文化
+> の自画像」のレベル）で親族を構成し得ること
+> を、みごとに例示している。自然主義を避けて
+> いるという意味で、このような親族の構成を非
+> 自然主義と称することにしよう。（清水：５２
+> −３）
 
  ただし、「人工授精」の場合は、近代社会でも「非自然主義」である（中川）
 
@@ -539,38 +580,19 @@ abusua-X       |         abusua-Y
 
 # 参考文献
 
-## 杉島敬志　昭和５７年　「親族の個別性と普遍性」（『親族の社会 
-
-人類学』至文堂現代のエスプリ別冊）昭和５７年）
-
-## レヴィ＝ストロース　『親族の基本構造』　番町書房
-
-## Leach, E.R. "Virgin Birth." in Leach, E.R. 1969 Genesis as 
-
-myth and other essays Cape Editions: London.
-
-## マリノフスキー『未開人の性生活』
-
-## 須藤「ジェンダー・性・セクシュアリティ」
-
-## 清水昭俊１９８９「「血」の神秘−−親子のきずなを考える」（田 
-
-辺繁治（編）１９８９『人類学的認識の冒険』同文館）
-
-# 引用文献
-
-## 田中真砂子　昭和５７年　「出自と親族」（単なる事実の引用）
-
-## Keesing, R.M. Cultural Anthropology
-
-## Roth, W. E. 1903 Superstition, magic and medicine North 
-
-Queens land Ethnographical Bulletin 5 (Brisbane, 
-Baughan). (cited in Leach 1969).
-
-## Meggit, M.J.  1962 Desert People Sydney: Angus and 
-
-Roberston.
+[@sugishima-shinzoku]
+[@sudoh-sexuality]
+[@ls-elementary]
+[@ls-elementary-j-1]
+[@ls-elementary-j-2]
+[@ls-elementary-j-new]
+[@leach-virgin]
+[@malinowski-sexual-life-j]
+[@shimizu-89]
+[@tanaka-shutuji]
+[@hicks-fishing_hook]
+[@roth-superstition]
+[@meggit-desert]
 
 ---
 title: '人間再生産理論'

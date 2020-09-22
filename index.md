@@ -35,10 +35,9 @@
 
 <!-- - [第三部のイントロ](intro-01.html) -->
 
-- [意味としての病](disease.html)
+- [病気と病](disease.html)
 - [死の心情 --- 死の人類学1](death1.html)
 - [過渡としての死 --- 死の人類学2](death2.html)
-- [葬式の人類学](funeral.html)
 
 # 雑（事務連絡）
 
