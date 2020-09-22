@@ -48,4 +48,5 @@
 ---
 title: （目次）『自然と文化』
 lang: ja-JP
+draft: true
 ---
