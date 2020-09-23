@@ -386,14 +386,16 @@ _Nyakusa Conventions of Burial_ [@wilson-burial] (Wilson 1939)
 れわれをじりじりさせるからだ。血縁の男はその激情的な悲しみを和らげる。つまり、
 彼は家の中に入って泣き、それから出てきて戦闘の踊りを踊る。彼の激情的な悲しみは
 踊りの中で耐えられるものとなる。。悲しみが彼の心を縛り付けた。そして舞踏がそれ
-をとき放つのだ。」（Ｗｉｌｓｏｎ　１９３９：　１３）
+をとき放つのだ。」
+[@wilson-burial: 13]
 
 ### 社会的統合というわけではない（少なくとも直接的には ）
 
  埋葬に於て暴力行為が発生するのはごく普通のことである（部族間の遺恨、一部の
 若者と少女の恋愛）　　−−−−−＞「したがって、儀式は社会的統合を促進するとい
 う単一の機能を持つどころか．．．既存の反感が喧嘩という形で明瞭に表現され、新た
-な反感が発生する機会だった」（Ｗｉｌｏｓｏｎ　１９３９：１４）
+な反感が発生する機会だった」
+[@wilson-burial: 14]
 
 ### 付録
 
@@ -409,7 +411,7 @@ _Nyakusa Conventions of Burial_ [@wilson-burial] (Wilson 1939)
 
 #### ある埋葬事例の叙述 
 
- _Nyakusa Conventions of Burial_ [@wilson-burial] (Wilson 1939)
+_Nyakusa Conventions of Burial_ [@wilson-burial] (Wilson 1939)
 
 ## 文化と心情
 
