@@ -259,25 +259,8 @@
 
 # 参考文献
 
-## 「ジェンダー・性・セクシュアリティ」須藤健一（合田涛（ 
 
-編）『現代社会人類学』弘文堂
-
-## Terence E. Hays and Patricia H. Hays 1982 "Opposition 
-
-and Complementarity of the Sexes in Ndumba Initiation" 
-in Herdt, Gilbert H. (ed) 1982 Rituals of Manhood: 
-Male initiation in Papua New Guinea  University of 
-California Press: Berkeley, Los Angeles, London.
-
-## 柄木田康之「ニューギニア高地における男と女の象徴性」『 
-
-女性人類学』（至文堂）
-
-## Gillison, G. 1981 Image of nature in Gimi thought. in 
-
-MacCormack, C. P. and A. M. Strathern (eds) 1981 
-Nature, Cultナre and Gender (Cambridge UP): 143-174
+## 柄木田康之「ニューギニア高地における男と女の象徴性」『女性人類学』（至文堂）
 
 ---
 title: '成人式'
