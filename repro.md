@@ -657,12 +657,6 @@ Talmud,Kiddush30b.
 
 # 参考文献
 
-
-- [@malinowski-sexual-life-j]
-- [@shimizu-89]
-- [@hicks-fishing_hook]
-
-
 ---
 title: '人間再生産理論'
 author: 中川敏
