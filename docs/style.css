@@ -39,9 +39,10 @@ h2 {
 /*  text-align: center; */
   text-align: left;
   margin-top: 5%;
+  left-margin: 15%;
   /*  margin-left: 10%;  */
   /*  margin-right: 10%; */
-  background: gray;
+  background: dimgray;
   color: white;
   line-height: 110%;  
 }
@@ -56,10 +57,19 @@ h2 {
 
 */
 
-h3, h4, h5, h6 {
+
+h3 {
+  text-align: left;
+  margin-top: 5%;
+  background: slategray;
+  color: white;
+  line-height: 100%;  
+}
+
+h4, h5, h6 {
     /*    font-family: verdana, arial, helvetica, Sans-Serif;*/
-    color: lightblue;
-  line-height: 105%;  
+    color: lightsteelblue;
+  line-height: 100%;  
 }
 
 div.header p.status { text-align: right; }
