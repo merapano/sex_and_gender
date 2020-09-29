@@ -2,11 +2,18 @@
 
 -----
 
+# 序論その他
+
+- [README](README.html)
 - [序論](00-intro.html)
 
-# 第一部：生と性
+<!--
 
-<!-- - [第一部のイントロ](intro-01.html) -->
+- [TECHINFO](TECHINFO.html) --- ダウンロードしたい人のために（）
+
+-->
+
+# 第一部：生と性
 
 - [セックスとジェンダー](gender.html)
 - [セクシュアリティ](sexual.html)
@@ -30,13 +37,8 @@
 - [死の心情 --- 死の人類学1](death1.html)
 - [過渡としての死 --- 死の人類学2](death2.html)
 
-# 雑（事務連絡）
-
-- [README](README.html)
-- [SUMMARY](SUMMARY.html)
-
 ---
-title: （目次）『自然と文化』
+title: 『自然と文化』全講義の目次
 lang: ja-JP
 toc: false
 draft: true
