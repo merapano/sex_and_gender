@@ -41,5 +41,6 @@
 title: 序論 --- 自然と文化
 author: 中川敏
 draft: true
+date: 2020-09-29
 
 ---
