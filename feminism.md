@@ -3,6 +3,13 @@
 
 # 序
 
+<comment>
+前半は青木の「男と女」[@eriko-otoko]、
+後半は上野の『資本制と家事労働』[ueno-kaji]
+のまる写しのようだ。たぶん。
+</comment>
+
+
 ## 女の権利
 
 ## 母権の魅惑：バッハオーフェン『母権』
@@ -13,6 +20,9 @@
 女神の左手がナイル河流域で演じた役割こそこの関
 聯を示すのに十分である」（富野敬照訳『母権論』：９４頁）
 
+<comment>富野訳は宮本百合子の本のタイトルで
+見るだけだ。</comment>
+[@bachofen-matriarchy-j]
 
 
      乱婚性（ＨａＥｔｅｒｉｓｍｕｓ）(Ha\"eterismus(?))
@@ -34,6 +44,8 @@
 
  バフォーエフェンのこの図式が、モルガン、エンゲルスに引き継
 がれることとなった。
+
+『家族・私有財産・国家の起源』 [@engels-kazoku]
 
 ## 母系社会
 
@@ -94,6 +106,11 @@
 
 ## 男女の分業---社会的劣位
 
+<comment>サタワルが出てくるから
+須藤さんかな・・・
+[@sudoh-sexuality]？
+</comment>
+
 ### 自然
 
  男女間の分業を、生物学的性差に求める学者もいる：マードック
@@ -118,16 +135,58 @@
 
  ミードはジェンダーの内容や性役割が生物学的条件によってではなく、文化的に決
 定されることを主張した。
-_CITE(mead-sex)
+[@mead-sex]
+
+## 女性の社会的劣位の起源
+
+<comment>[@sudoh-sexuality]よりの孫引き、だろう。
+</comment>
+
+<!comment>
+
+[2020-10-07]
+
+[Wikipedia on  Woman, Culture, and Society](https://en.wikipedia.org/wiki/Woman,_Culture,_and_Society)から：
+
+The book features a number of widely cited essays including:
+
+- In "Family Structure and Feminine
+  Personality," Nancy Chodorow offers a
+  psychoanalytic explanations for gender
+  differences in personality, based on
+  mother's primary role in raising small
+  children and socializing girls into their
+  gendered roles.
+
+- In "Is female to male as nature is to
+  culture?," first published in Feminist
+  Studies,[6] Sherry Ortner argues that the
+  universal (or near universal) subordination
+  of women across cultures is explained in
+  part by a common conception of women as
+  "closer to nature than men" (73). The title
+  describes a structuralist analogy between
+  deep cultural structures, in the sense
+  theorized by Claude Lévi-Strauss.[7] It
+  described cultural oppositions including
+  culture/nature, man/woman, mind/body,
+  public/private, civilized/primitive, and
+  active/passive.[8] In 1996, Ortner
+  remembered it as "my first piece of
+  feminist writing and my second professional
+  publication."[7]
 
 
-## 女性の社会的劣位の起源（須藤より）
+</!comment>
 
-### オートナー（Ｏｒｔｎｅｒ，１９７４）
+### オートナーの議論
+
+"Is female to male as nature is to culture?"
+[@ortner-if_female]
 
 #### 生理構造
 
- 女性は*生命の再生産*に関わらざるをえないのに対し、男
+ 女性は *生命の再生産* に関わらざるをえないのに対し、男
 性はそれか自由で文化の創造に関わる。
 
  女性がすべての哺乳動物のメスと同様、生殖や育児に関わる 役割
@@ -138,7 +197,10 @@ _CITE(mead-sex)
  主観的、個人主義的性向をもつゆえに、男性のそれより自然に近
 く、低次元である
 
-### チョドロー（Ｃｈｏｄｏｒｏｗ，１９７４）
+### チョドローの議論
+
+"Family Structure and Feminine Personality"
+[@chodorow-family]
 
 #### 心理的要因
 
@@ -149,7 +211,9 @@ _CITE(mead-sex)
 立し、自立することよりも、母親と心理的依存関係のもとに成長し、
 それを次世代へと受け継いで行くのである。
 
-### ロザルド（Ｒｏｓａｌｄ，Ｍ．１９７４）
+### ロザルドの議論
+
+[@rosaldo-woman]
 
 #### 社会構造
 
@@ -560,12 +624,6 @@ _MC(『大草原の小さな家』)
 
 # 参考文献
 
-- 上野千鶴子１９８５『資本制と家事労働』（モナド・ブック ス、海鳴社）
-
-- 須藤健一「ジェンダー・性・セクシュアリティ」
-   （合田（編））
-
-#References
 
 ---
 title: 'フェミニズム'
