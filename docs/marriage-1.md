@@ -1,4 +1,7 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: 結婚
+layout: default
+---
 
 
 # 序
