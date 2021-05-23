@@ -1,4 +1,9 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: '死の心情（死の人類学その１）'
+author: 中川敏
+lang: ja-JP
+draft: true
+---
 
 # 序：死の儀礼の人類学
 
@@ -440,10 +445,3 @@ _Nyakusa Conventions of Burial_ [@wilson-burial] (Wilson 1939)
 
 # 参考文献
 
-
----
-title: '死の心情（死の人類学その１）'
-author: 中川敏
-lang: ja-JP
-draft: true
----

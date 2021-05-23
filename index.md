@@ -1,4 +1,9 @@
-<!-- -*- coding: utf-8 -*- -->
+---
+title: 『自然と文化』全講義の目次
+lang: ja-JP
+toc: false
+draft: true
+---
 
 -----
 
@@ -33,13 +38,7 @@
 
 <!-- - [第三部のイントロ](intro-01.html) -->
 
-- [病気と病](disease.html)
-- [死の心情 --- 死の人類学1](death1.html)
-- [過渡としての死 --- 死の人類学2](death2.html)
+- [病気と病](disease.html) [[disease]]
+- [死の心情 --- 死の人類学1](death1.html) [[death1]]
+- [過渡としての死 --- 死の人類学2](death2.html) [[death2]]
 
----
-title: 『自然と文化』全講義の目次
-lang: ja-JP
-toc: false
-draft: true
----

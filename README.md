@@ -2,7 +2,6 @@
 title: 自然と文化
 author: 中川敏
 date: [[2020-09-20]]
-update: [2021-05-23] 
 lang: ja-JP
 draft: true
 ---
