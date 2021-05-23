@@ -1,4 +1,9 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: "女と男 (woman.md)"
+lang: ja-JP
+draft: true
+---
+
 # 序
 
 ## 全体のみ通し
@@ -851,8 +856,3 @@
 # 参考文献
 
 
----
-title: 女と男
-lang: ja-JP
-draft: true
----

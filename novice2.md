@@ -1,4 +1,8 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: '成人式（その２）'
+lang: ja-JP
+draft: true
+---
 
 # 序
 
@@ -1064,9 +1068,3 @@ nurturing powers of women. (235)
   A. M. Strathern (eds) 1981 Nature, Culture
   and Gender (Cambridge UP): 143-174
 
----
-title: '成人式（その２）'
-lang: ja-JP
-
-draft: true
----

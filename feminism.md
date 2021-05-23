@@ -1,4 +1,8 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: 'フェミニズム'
+lang: ja-JP
+draft: true
+---
 <!-- toc -->
 
 # 序
@@ -157,7 +161,6 @@ The book features a number of widely cited essays including:
   mother's primary role in raising small
   children and socializing girls into their
   gendered roles.
-
 - In "Is female to male as nature is to
   culture?," first published in Feminist
   Studies,[6] Sherry Ortner argues that the
@@ -453,20 +456,18 @@ The book features a number of widely cited essays including:
 の分離はなかった。ウチとソトが「生産」と「再生産」の関係にはな
 かった。（ウチでやる機織）
 
-市場と賃労働
+★ 市場と賃労働
 
- イリイチ『シャドウ・ワーク』
+- イリイチ『シャドウ・ワーク』
  [@illich-shadow-j: 228--9] に出てくる
  「アメリカでの家事の変容」議論をここで紹介しよう。
-
- １８１０年代のニュー・イングランドでは、食糧の加工・保存、
-ろうそく作り、せっけん作り、手紡ぎ、機織り、靴作り、羽根布団作
-り、腰掛け作り、小動物の飼育、果樹園の手入れ、っっこれらすべて
-は家屋敷において行われた。女性とは、生活の資を供する家の女主人
-だったのだ。
-
- １８３０年代においては、商業的農場経営がサブシステンス農業
-に取って代わりはじめた。女性は、就労前の子供たちが住み、夫が憩
+- １８１０年代のニュー・イングランドでは、食糧の加工・保存、
+ ろうそく作り、せっけん作り、手紡ぎ、機織り、靴作り、羽根布団作
+ り、腰掛け作り、小動物の飼育、果樹園の手入れ、っっこれらすべて
+ は家屋敷において行われた。女性とは、生活の資を供する家の女主人
+ だったのだ。
+- １８３０年代においては、商業的農場経営がサブシステンス農業
+  に取って代わりはじめた。女性は、就労前の子供たちが住み、夫が憩
 い、夫の所得の消費される場所の守り役となっていったのだ。
 
 CF: 『大草原の小さな家』
@@ -645,10 +646,3 @@ CF: 『大草原の小さな家』
 
 # 参考文献
 
-
----
-title: 'フェミニズム'
-lang: ja-JP
-
-draft: true
----

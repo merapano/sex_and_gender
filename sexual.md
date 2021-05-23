@@ -1,4 +1,11 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: "セクシュアリティ"
+author: 'Satoshi Nakagawa'
+lang: ja-JP
+draft: true
+---
+
+
 
 # 序
 
@@ -234,9 +241,3 @@ Clellan Ford and Frank A. Beach 1951？
 
 # 参照・引用文献
 
----
-title: 'セックスとジェンダー'
-author: 'Satoshi Nakagawa'
-lang: ja-JP
-draft: true
----

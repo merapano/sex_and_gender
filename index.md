@@ -4,8 +4,8 @@
 
 # 序論その他
 
-- [README](README.html)
-- [序論](00-intro.html)
+- [README](README.html) [[README]]
+- [序論](00-intro.html) [[00-intro]]
 
 <!--
 
@@ -15,17 +15,17 @@
 
 # 第一部：生と性
 
-- [セックスとジェンダー](gender.html)
-- [セクシュアリティ](sexual.html)
-- [女性](woman.html)
-- [フェミニズム](feminism.html)
+- [セックスとジェンダー](gender.html) [[gender]]
+- [セクシュアリティ](sexual.html) [[sexual]]
+- [女性](woman.html) [[woman]]
+- [フェミニズム](feminism.html) [[feminism]]
 
 # 第二部：子供とおとな
 
 <!-- - [第二部のイントロ](intro-01.html) -->
 
-- [成人式1](novice1.html)
-- [成人式2](novice2.html)
+- [成人式1](novice1.html) [[novice1]] 
+- [成人式2](novice2.html) [[novice2]] 
 - [結婚](marriage.html)
 - [子供を生むこと](repro.html)
 

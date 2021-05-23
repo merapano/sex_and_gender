@@ -1,5 +1,8 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
-
+---
+title: 'セックスとジェンダー'
+lang: ja-JP
+draft: true
+---
 <!-- toc -->
 
 # 序
@@ -63,7 +66,7 @@
 
 ## 性の三つの意味
 
-性の三つの意味
+★ 性の三つの意味
 
  - sex
  - gender
@@ -296,10 +299,3 @@
 # Links
 
 [Up](index.html)
-
----
-title: 'セックスとジェンダー'
-lang: ja-JP
-
-draft: true
----
