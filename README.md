@@ -1,6 +1,11 @@
-<!-- -*- coding: utf-8 -*- --->
-
-
+---
+title: 自然と文化
+author: 中川敏
+date: [[2020-09-20]]
+update: [2021-05-23] 
+lang: ja-JP
+draft: true
+---
 <!-- toc -->
 
 
@@ -25,13 +30,6 @@
 [[index]]
 [ここ](index.html) にある。
 
----
-title: 自然と文化
-author: 中川敏
-date: [[2020-09-20]]
-lang: ja-JP
-draft: true
----
 
 
 
