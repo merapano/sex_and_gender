@@ -1,0 +1,4 @@
+INSTALL_DIR=$(HOME)/Output/github/anthrop/class/sex_and_gender
+.PHONEY: install 
+install:
+	cp -u docs/*.html $(INSTALL_DIR)/
