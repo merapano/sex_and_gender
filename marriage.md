@@ -4,20 +4,24 @@
 # 序
 
  出自理論をとるにせよ、縁組理論をとるにせよ、最も大切なのは「結婚」である。
-<comment>Descent theory と alliacne theory について
+<!-- REM
+Descent theory と alliacne theory について
 説明したことになっているようだ。
-そんな難しいことを学部生にしたのかなぁ。</comment>
+そんな難しいことを学部生にしたのかなぁ。
+-->
 出自理論にとっては「再生産」の理論として、縁組理論においては「交換」の公式
 化の理論として。
 
-<!comment>
+<!-- REM
+
 
 
 - 出自理論：再生産
 - 縁組理論：交換
 
 
-</!comment>
+
+-->
 
 それは生物学的な再生産と社会学的な婚姻とを結び付ける役目もしている。
 
@@ -34,7 +38,9 @@
  婚姻とは、一人の男、一人の女、その間に生まれた子どもからなる一集団の法律的
 基礎を作り、その男と女に「親の地位 (parenthood)」を認め、親であるこ
 とから生じる権利と責任を彼らに与えるものである。（Ｇ：６）
-<comment> G って何だろう？ "G. P. Murdoch"? </comment>
+<!-- REM
+ G って何だろう？ "G. P. Murdoch"? 
+-->
 
 ## Ｇ．Ｐ．マードックによる定義
 
@@ -45,7 +51,9 @@
 のみ成立するものである。このように定義された婚姻は、いままでに知られたあらゆる
 社会において見出される。さらに、どんな社会においても、婚姻は、両当事者の同居と
 いう要素をともない、またすべての社会において核家族の基礎となっている。（ｐ．８）
-[@murdoch-social-j: 8]<comment>80 ％くらいの確信度</comment>
+[@murdoch-social-j: 8]<!-- REM
+80 ％くらいの確信度
+-->
 
 ## 核家族（基本家族）マードックによる定義
 
@@ -85,17 +93,21 @@
  女が産んだ子どもの法律上の父親と母親となるような男と女の結合
 [@malinowski-sexual-life 123--143]
 
- <comment> 
+ <!-- REM
+ 
 オリジナルには (Malinowski 1930) と書いてあった。
 見当らないので、
 1929年の
  _The Sexual Life of Savages In North-Western Melanesia; An Ethnographic Account of Courtship, Marriage and Family Life Among the Natives of the Trobriand Islands, British New Guinea_ [@malinowski-sexual-life] (Bronislaw Malinowski 2012 (1929))
 とする。 
- </comment>
+ 
+-->
 
 女の産んだ子どもが二人の正当な嫡出子とみなされるような結合（Ｎ＆Ｑ）
-<comment>これは Notes and Queries だろう。
-ただし、何年版かはわからない。</comment>
+<!-- REM
+これは Notes and Queries だろう。
+ただし、何年版かはわからない。
+-->
 
 ## 英語の結婚という言葉の４つの使い方
 
@@ -108,14 +120,16 @@
 
 [^marriage]: つうじょう「結婚」と訳される。
 
-<!comment>
+<!-- REM
+
 
 - 摘出
 - 同居
 - 結婚式
 - 親族関係
 
-</!comment>
+
+-->
 
 
 ### 嫡出
@@ -150,7 +164,9 @@
 
 # 婚姻、核家族に対する例外
 
-<comment>こっから先の民族誌事例はどこから？リーチ？ </comment>
+<!-- REM
+こっから先の民族誌事例はどこから？リーチ？ 
+-->
 
 ## ムタ結婚（中近東イスラム教徒）
 
@@ -212,7 +228,9 @@
 ## ？（どこに書いてあったのかな−−末成論文？）
 
  男が「母親」として機能する社会。
-<comment>原典は[@kelly-80]</comment>
+<!-- REM
+原典は[@kelly-80]
+-->
 
 
 ## オノトア族（ミクロネシア、ギルバート諸島）

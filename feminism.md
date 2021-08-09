@@ -7,11 +7,13 @@ draft: true
 
 # 序
 
-<comment>
+<!-- REM
+
 前半は青木の「男と女」[@eriko-otoko]、
 後半は上野の『資本制と家事労働』[ueno-kaji]
 のまる写しのようだ。たぶん。
-</comment>
+
+-->
 
 ## 女の権利
 
@@ -23,8 +25,10 @@ draft: true
 女神の左手がナイル河流域で演じた役割こそこの関
 聯を示すのに十分である」（富野敬照訳『母権論』：９４頁）
 
-<comment>富野訳は宮本百合子の本のタイトルで
-見るだけだ。</comment>
+<!-- REM
+富野訳は宮本百合子の本のタイトルで
+見るだけだ。
+-->
 [@bachofen-matriarchy-j]
 
 
@@ -73,9 +77,11 @@ draft: true
 ばず、公の場においてもかなりのものである。
 
 （Ｒ．Ｍ．キージング １９８２：１１９ー８）
-<comment>[@keesing-82]
+<!-- REM
+[@keesing-82]
 かな？たぶん違う。教科書だろう。
-たぶん [@keesing-anthropology]</comment>
+たぶん [@keesing-anthropology]
+-->
 
 ### イロクォイ
 
@@ -89,7 +95,9 @@ draft: true
 女性は家庭内において中心的な役割を果たすだけでなく、母系集団内
 に継承される男性酋長の任命罷免権を有していた。（前掲書：
 １１９ー１２２）
-<comment>「前掲書」？キージング？</comment>
+<!-- REM
+「前掲書」？キージング？
+-->
 
 ### サラッカツァニ
 
@@ -110,10 +118,12 @@ draft: true
 
 ## 男女の分業---社会的劣位
 
-<comment>サタワルが出てくるから
+<!-- REM
+サタワルが出てくるから
 須藤さんかな・・・
 [@sudoh-sexuality]？
-</comment>
+
+-->
 
 ### 自然
 
@@ -143,10 +153,13 @@ draft: true
 
 ## 女性の社会的劣位の起源
 
-<comment>[@sudoh-sexuality]よりの孫引き、だろう。
-</comment>
+<!-- REM
+[@sudoh-sexuality]よりの孫引き、だろう。
 
-<!comment>
+-->
+
+<!-- REM
+
 
 [2020-10-07]
 
@@ -180,7 +193,8 @@ The book features a number of widely cited essays including:
   publication."[7]
 
 
-</!comment>
+
+-->
 
 ### オートナーの議論
 
@@ -268,8 +282,10 @@ The book features a number of widely cited essays including:
 ることのなかった、交換における女性の主体的役割を明らかにした。
 （Weiner　1976）[@weiner-women]
 
-<comment> 1976 は博論（同名）の刊行年度。
-[@weiner-women] は 1983年。</comment>
+<!-- REM
+ 1976 は博論（同名）の刊行年度。
+[@weiner-women] は 1983年。
+-->
 
 
 #### 女性は自然か？
@@ -335,9 +351,11 @@ The book features a number of widely cited essays including:
 
 # 生産労働と再生産労働
 
-<comment>ここから先はすべて
+<!-- REM
+ここから先はすべて
 上野千鶴子『資本制と家事労働』[@ueno-kaji]
-のまる写しである。</comment>
+のまる写しである。
+-->
 
 
 

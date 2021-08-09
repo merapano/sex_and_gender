@@ -18,14 +18,16 @@ draft: true
 「ンドゥンバにおける性の間の対立と補完」
 [@hays_hays-sexes] のページ数である。
 
-<comment>ぼく【SN】が授業でこのメモを使うときには、
+<!-- REM
+ぼく【SN】が授業でこのメモを使うときには、
 授業までに儀礼のすべてを暗記する。
 そうして、メモはほとんど見ずに、一気に
 喋る。
 ビデオを見るのならばともかく、
 「未開」の儀礼の詳細を
 ぼそぼそと、メモを見ながら語られては、
-学生は興味をいだく筈がない。</comment>
+学生は興味をいだく筈がない。
+-->
 
 
 # 民族誌的背景
@@ -33,9 +35,11 @@ draft: true
 ンドゥンバは、
 次のようなニューギニア高地に特徴的な民族誌的特徴を有する：
 
-<!comment>
+<!-- REM
 
-<!box> 
+
+<!--BEGIN:LIST
+★ なんか 
 
 * さつまいも耕作が生業、豚飼育、
 * 豚交換、
@@ -44,9 +48,10 @@ draft: true
 * 絶え間ない戦争、
 * 公的領域における男の優越（２０２）。
 
-</!box>
+<!--END:LIST-->
 
-</!comment>
+
+-->
 
  Among these are primary dependence on sweet potato cultivation, pig
 husbandry and pork prestations (but not large-scale pig exchanges),
@@ -711,17 +716,20 @@ daughter) to the girl's mother, await the cue to start their performance.
 
 ### ２番目の踊り手
 
-<!comment>
+<!-- REM
 
-<!box> 
+
+<!--BEGIN:LIST
+★ なんか 
 
 * 一人のンラーセ（男装）
 * ５人のクワーシ（中性装）
 * 火の廻りを回る（追いかけるわけではない）
 
-</!box>
+<!--END:LIST-->
 
-</!comment>
+
+-->
 
  呪医が作物の成長を身振り、手振りで示す。母親が、男性に危害を加えないように
 教育をする。
@@ -866,16 +874,19 @@ SEXUAL COMPLEMENTARITY IN THE CEREMONIES (229)
 
  男儀礼を用意するのは女たちである（補完性）
 
-<!comment>
+<!-- REM
 
-<!box> 
+
+<!--BEGIN:LIST
+★ なんか 
 
 * 女：「柔らかい部分」出産、食物の準備
 * 男：「硬い部分」
 
-</!box>
+<!--END:LIST-->
 
-</!comment>
+
+-->
 
  Women produce children,
 as men cannot;
