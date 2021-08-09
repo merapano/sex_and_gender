@@ -27,7 +27,7 @@ draft: true
 
 目次は
 [[index]]
-[ここ](index.html) にある。
+[ここ](index.md) にある。
 
 
 

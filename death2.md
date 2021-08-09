@@ -38,7 +38,7 @@ draft: true
 <!-- REM
 
 
-<!--BEGIN:LIST
+<!--BEGIN:LIST-->
 ★ なんか 
 
 
@@ -132,7 +132,7 @@ draft: true
 <!-- REM
 
 
-<!--BEGIN:LIST
+<!--BEGIN:LIST-->
 ★ なんか 
 
 - エルツの分析の三主題

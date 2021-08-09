@@ -1,5 +1,8 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
-
+---
+title: '結婚'
+lang: ja-JP
+draft: true
+---
 
 # 序
 
@@ -12,16 +15,14 @@ Descent theory と alliacne theory について
 出自理論にとっては「再生産」の理論として、縁組理論においては「交換」の公式
 化の理論として。
 
-<!-- REM
-
-
+★ 出自と縁組
 
 - 出自理論：再生産
 - 縁組理論：交換
 
 
 
--->
+
 
 それは生物学的な再生産と社会学的な婚姻とを結び付ける役目もしている。
 
@@ -120,16 +121,13 @@ Descent theory と alliacne theory について
 
 [^marriage]: つうじょう「結婚」と訳される。
 
-<!-- REM
-
+★ 結婚
 
 - 摘出
 - 同居
 - 結婚式
 - 親族関係
 
-
--->
 
 
 ### 嫡出
@@ -580,9 +578,3 @@ Descent theory と alliacne theory について
 
 # 参考文献
 
-
----
-title: '結婚'
-lang: ja-JP
-draft: true
----

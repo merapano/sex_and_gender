@@ -94,10 +94,7 @@ Header Level がじつにいいかげんだ。
 [@roth-superstition: 22]
 
 
-<!-- REM
-
-
-<!--BEGIN:LIST
+<!--BEGIN:LIST-->
 ★ なんか
 
 - 男が彼女に与えた鯉をあぶる火のそばにすわっていた
@@ -106,9 +103,6 @@ Header Level がじつにいいかげんだ。
 - 子供が彼女の胎内に入れられた夢をみた
 
 <!--END:LIST-->
-
-
--->
 
 この事からののみ「性交の生誕に関する関与性」、
 「生物学的父性」に対する無知が結論付けられはしない。
@@ -550,10 +544,7 @@ Talmud,Kiddush30b.
 
 ## 継承の三つの型
 
-<!-- REM
-
-
-<!--BEGIN:LIST
+<!--BEGIN:LIST-->
 ★ なんか 
 
 
@@ -562,9 +553,6 @@ Talmud,Kiddush30b.
 * F' ntoro --> S, D
 
 <!--END:LIST-->
-
-
--->
 
 ### Summary
 

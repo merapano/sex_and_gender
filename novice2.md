@@ -35,11 +35,10 @@ draft: true
 ンドゥンバは、
 次のようなニューギニア高地に特徴的な民族誌的特徴を有する：
 
-<!-- REM
 
 
-<!--BEGIN:LIST
-★ なんか 
+<!--BEGIN:LIST-->
+★ 民族誌
 
 * さつまいも耕作が生業、豚飼育、
 * 豚交換、
@@ -47,11 +46,8 @@ draft: true
 * ビッグマンを頂点とする政治構造、
 * 絶え間ない戦争、
 * 公的領域における男の優越（２０２）。
-
 <!--END:LIST-->
 
-
--->
 
  Among these are primary dependence on sweet potato cultivation, pig
 husbandry and pork prestations (but not large-scale pig exchanges),
@@ -716,20 +712,14 @@ daughter) to the girl's mother, await the cue to start their performance.
 
 ### ２番目の踊り手
 
-<!-- REM
-
-
-<!--BEGIN:LIST
-★ なんか 
+<!--BEGIN:LIST-->
+★ 踊り手
 
 * 一人のンラーセ（男装）
 * ５人のクワーシ（中性装）
 * 火の廻りを回る（追いかけるわけではない）
 
 <!--END:LIST-->
-
-
--->
 
  呪医が作物の成長を身振り、手振りで示す。母親が、男性に危害を加えないように
 教育をする。
@@ -874,19 +864,13 @@ SEXUAL COMPLEMENTARITY IN THE CEREMONIES (229)
 
  男儀礼を用意するのは女たちである（補完性）
 
-<!-- REM
-
-
-<!--BEGIN:LIST
-★ なんか 
+<!--BEGIN:LIST-->
+★ 男と女
 
 * 女：「柔らかい部分」出産、食物の準備
 * 男：「硬い部分」
 
 <!--END:LIST-->
-
-
--->
 
  Women produce children,
 as men cannot;
