@@ -1,8 +1,12 @@
 ---
-title: 'セックスとジェンダー'
+title: セックスとジェンダー
+author: Satoshi Nakagawa
 lang: ja-JP
-draft: true
+
+documentclass: ltjarticle
+pagesize: a5
 ---
+
 <!-- toc -->
 
 # 序
@@ -78,8 +82,10 @@ draft: true
 
  - sex
  - gender
- - sexuility
- 
+ - sexuality
+
+<!--END:LIST-->
+
 簡単に「性」の三つのカテゴリーを説明しておこう。
 
 sex
@@ -104,6 +110,8 @@ sexuality
 
 - ジェンダーとセックスが違うことを示す
 - ***文化*** によって、「性」の考えかたが違う
+
+<!--END:LIST-->
 
 # 男らしさ女らしさ：ミードの研究（えりこ）
 
@@ -175,7 +183,7 @@ Table: 三つの部族の比較
 スパルタでは、花嫁は頭を剃り、靴をはき、男の着物をきて、
 ひとりで暗い寝台に横になって待っており、
 花婿はこっそり彼女の所に忍んで行くのだという。
-[@ueshima-otoko] p.79--)
+[@ueshima-otoko: p.79--]
 
 ## メスが男
 
