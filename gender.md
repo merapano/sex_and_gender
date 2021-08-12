@@ -1,13 +1,10 @@
 ---
 title: セックスとジェンダー
 author: Satoshi Nakagawa
-lang: ja-JP
 
 documentclass: ltjarticle
 pagesize: a5
 ---
-
-<!-- toc -->
 
 # 序
 
@@ -84,7 +81,7 @@ pagesize: a5
  - gender
  - sexuality
 
-<!--END:LIST-->
+...
 
 簡単に「性」の三つのカテゴリーを説明しておこう。
 
