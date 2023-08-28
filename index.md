@@ -5,6 +5,16 @@ toc: false
 draft: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F5QJMGG75W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F5QJMGG75W');
+</script>
+
 # 序論その他
 
 - [README](README.md) [[README]]
