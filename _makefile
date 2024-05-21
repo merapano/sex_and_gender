@@ -1,4 +1,5 @@
-INSTALL_DIR=$(HOME)/Output/github/anthrop/class/sex_and_gender
-.PHONEY: install 
-install:
-	cp -u docs/*.html $(INSTALL_DIR)/
+PMD= feminism.md gender.md woman.md novice1.md novice2.md kekkon.md marriage.md sexual.md repro.md disease.md death.md funeral.md 
+OUTDIR = ~/Output/anthrop/class-md/sex_and_gender
+INSTALLDIR = ~/Cloud/Gdrive/Output/anthrop/class-md/sex_and_gender
+WEBDIR = ~/public_html/anthrop/class-md/sex_and_gender
+PUBDIR = ./pub
