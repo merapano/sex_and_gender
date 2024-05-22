@@ -1,52 +1,21 @@
+
 ---
-title: 『自然と文化』全講義の目次
-lang: ja-JP
-toc: false
-draft: true
+title: セックスとジェンダー
+author: Satoshi Nakagawa
+version: v0.1
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F5QJMGG75W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F5QJMGG75W');
-</script>
-
-# 序論その他
-
-- [README](README.md) [[README]]
-- [序論](00-intro.md) [[00-intro]]
-
-<!--
-
-- [TECHINFO](TECHINFO.md) --- ダウンロードしたい人のために（）
-
--->
-
-# 第一部：生と性
-
-- [セックスとジェンダー](gender.md) [[gender]]
-- [セクシュアリティ](sexual.md) [[sexual]]
-- [女性](woman.md) [[woman]]
-- [フェミニズム](feminism.md) [[feminism]]
-
-# 第二部：子供とおとな
-
-<!-- - [第二部のイントロ](intro-01.md) -->
-
-- [成人式1](novice1.md) [[novice1]] 
-- [成人式2](novice2.md) [[novice2]] 
-- [結婚](marriage.md)
-- [子供を生むこと](repro.md)
-
-# 第三部：病と死
-
-<!-- - [第三部のイントロ](intro-01.md) -->
-
-- [病気と病](disease.md) [[disease]]
-- [死の心情 --- 死の人類学1](death1.md) [[death1]]
-- [過渡としての死 --- 死の人類学2](death2.md) [[death2]]
-
+- 目次  (index) [html](index.html) [pdf](index.pdf)  [epub](index.epub) 
+ - 資本制と家事労働（上野千鶴子）  (feminism) [html](feminism.html) [pdf](feminism.pdf)  [epub](feminism.epub) 
+ - ジェンダー  (gender) [html](gender.html) [pdf](gender.pdf)  [epub](gender.epub) 
+ - 女（女と穢れ）  (woman) [html](woman.html) [pdf](woman.pdf)  [epub](woman.epub) 
+ - 成人式（ギミ族の成人式）  (novice1) [html](novice1.html) [pdf](novice1.pdf)  [epub](novice1.epub) 
+ - 成人式（ンドゥンバ族の成人式）  (novice2) [html](novice2.html) [pdf](novice2.pdf)  [epub](novice2.epub) 
+ - 結婚様ざま  (kekkon) [html](kekkon.html) [pdf](kekkon.pdf)  [epub](kekkon.epub) 
+ - 結婚・親族理論  (marriage) [html](marriage.html) [pdf](marriage.pdf)  [epub](marriage.epub) 
+ -  性（セクシュアリティ）  (sexual) [html](sexual.html) [pdf](sexual.pdf)  [epub](sexual.epub) 
+ - 人間再生産理論（生殖の理論）  (repro) [html](repro.html) [pdf](repro.pdf)  [epub](repro.epub) 
+ - 病気（災因論）  (disease) [html](disease.html) [pdf](disease.pdf)  [epub](disease.epub) 
+ - 死の人類学（死の心情）  (death) [html](death.html) [pdf](death.pdf)  [epub](death.epub) 
+ - 葬式の人類学（メットカーフ）  (funeral) [html](funeral.html) [pdf](funeral.pdf)  [epub](funeral.epub) 
+ 
