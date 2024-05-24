@@ -50,26 +50,26 @@ public events as they are directed to do so. (202)
  単に男と女を分離することではなく、成人した男を、他のメンバー（たとえば、ま
 だ成人していない少年）から分離することが重要なのだ。
 
-_FL_BEGIN
+
 (1) 性による分業
-_FL_END
+
 
 男：バナナ、砂糖黍、タロ、ヤム
 
-_FL_BEGIN
-(2) 居住
-_FL_END
 
-_FL_BEGIN
+(2) 居住
+
+
+
 (2.1) 家屋
-_FL_END
+
 
  家屋は、男の部分と女の部分とに分けられている。性交渉の時にだけ男はこの境界
 を横切るが、通常は性交渉は森の中でもたれる。（２０４）
 
-_FL_BEGIN
+
 (2.2) 男の小屋
-_FL_END
+
 
  男の家屋に、９２人中４８人（５２パーセント）の成人男子が居住していた。
 
@@ -77,9 +77,9 @@ In 1971-1972, forty-eight of the ninety-two (52
 percent) initiated males currently residing in 
 Ndumba lived in traditional men's houses. (204)
 
-_FL_BEGIN
+
 (2.3) 女の小屋
-_FL_END
+
 
  一つのハムレットに一つ、あるいは二つの女の分離小屋がある。メンスの時、出産
 の時、分娩して間もない頃ここにいなければならない。成人の男子は、厳格にこれを避
@@ -93,15 +93,15 @@ for infants and small children. (204)
 
 ### なぜ分離か
 
-_FL_BEGIN
+
 (3) 汚染する穢れ
-_FL_END
+
 
  この様な現象は「穢れの汚染」という概念で説明できるであろう。
 
-_FL_BEGIN
+
 (4) 危険な血および、（血の源泉としての）性器
-_FL_END
+
 
  性による分業は、男と女の本性に基づくものである。両性の接触は、双方にとって
 （特に男性にとって）危険なものである。
@@ -112,9 +112,9 @@ _FL_END
  下に述べる儀礼の中心テーマは、この様な女の「血」が、男性にもたらす「危険」
 である。（２０６）
 
-_FL_BEGIN
+
 (5) 危険な女性
-_FL_END
+
 
  女性と長い間接触すると、骨が溶け、息が切れ、死んでしまうことさえある。特に
 メンスの血は危険である。
@@ -135,9 +135,9 @@ blood is particularyly dangerous.
 
 ### 分離され得ないとき
 
-_FL_BEGIN
+
 (6) 結婚
-_FL_END
+
 
  結婚してもすぐに性交渉を始めるわけではない。
 
@@ -155,9 +155,9 @@ is at once painful, pleasant, and dangerous to men. (207)
  −＞男の狩猟（数カ月）−＞女の家に対する労働奉仕（収穫まで）−＞最初の性交
 渉
 
-_FL_BEGIN
+
 (7) 性交渉＝最も危険
-_FL_END
+
 
  性交渉は、両性の間で避けることができない肉体的接触であるが、しかし同時に最も
 危険なものでもある。それ故、ンドゥンバ族の成功に対する態度は両義的である。成功
@@ -170,9 +170,9 @@ norms are followed (and the birth spacing of children -- on the average,
 three years -- as well as other information, suggests that they probably are),
 sexual contact can at least be kept to a low frequency. (206-7)
 
-_FL_BEGIN
+
 (8) 妊娠（民俗生物学）
-_FL_END
+
 
  Pregnancy and childbirth are viewed by women as painful, restricting, and
 generally negative.
@@ -246,16 +246,16 @@ female:    +-- 'iataara -- kwaasi -- nraase ---
 
 ### 二つの成人式
 
-_FL_BEGIN
+
 (9) ウンマンラ儀礼
-_FL_END
+
 'ummanra ceremony
 
  １０から１２才の少年に対してなされる儀礼
 
-_FL_BEGIN
+
 (10) クワーシ儀礼
-_FL_END
+
 kwaasi ceremony
 
  初潮の時に行う儀礼
@@ -273,16 +273,16 @@ THE 'UMMANRA CEREMONY (209)
 
 The First Day (210)
 
-_FL_BEGIN
+
 (11) 早朝−−準備
-_FL_END
+
 early in the morning
 
  女たちによって、土器が用意される。女たちによって、少年が飾られる。
 
-_FL_BEGIN
+
 (12) 朝−−儀礼の始まり
-_FL_END
+
 by midmorning
 
  （女たちによって）土器から食物が配られる（少年は除く）
@@ -292,31 +292,31 @@ by midmorning
 
  女性も集まって来る。結局、ンドゥンバ族全体が集まって来る。
 
-_FL_BEGIN
-(13) 成人式プロパー
-_FL_END
 
-_FL_BEGIN
+(13) 成人式プロパー
+
+
+
 (13.1) 丘へ−−少年の（女たちからの）隔離
-_FL_END
+
 
  男たちは少年を森へ連れて行こうとする。女たちは、驚いて、抵抗をする振りをす
 る。笑い声、抵抗。
 
  男たちは、少年を連れて、丘を登る。女たち（母親）は後ろから罵り声をあげる。
 
-_FL_BEGIN
+
 (13.2) 森へ−−行列は進む
-_FL_END
+
 
  森の入口。女と子供を残して、男たちは、少年を連れて森の中にはいる。女たちが
 ついて行かないように、女装をした男が監視する。
 
  森の中を行列は進む。待ち伏せした攻撃隊が、行列を襲う。川へ逃げる。
 
-_FL_BEGIN
+
 (13.3) 川にて−−試練
-_FL_END
+
 
  少年は、川岸で、膝まづかされ、服を脱がされて、水の中につけられる。
 
@@ -335,9 +335,9 @@ _FL_END
 
  もう一度、水浴をし、新しい服に着替え、木の葉で顔を隠し、笛を持つ。
 
-_FL_BEGIN
+
 (13.4) 帰路−−再び女たちと
-_FL_END
+
 
  同じ道を行列は帰る。更なる攻撃が待ち伏せ隊からなされる。森からで、取り残さ
 れていた女・子供と合流する。
@@ -345,9 +345,9 @@ _FL_END
  待ち伏せ隊が森から出、女たちの第一列にならび、行列を（特にスポンサーを）脅
 す。少年たちは叫び声をあげる。全員が丘を下る。
 
-_FL_BEGIN
+
 (14) 集落へ−−男は女をかきわけ男の小屋へ
-_FL_END
+
 
  集落へ到着。男の小屋に近づくと、女（母親や、その他の年輩の女たち）は壁を作
 る。その壁を破って行列は男の小屋に入って行く。女と子供は取り残される。
@@ -358,9 +358,9 @@ _FL_END
 
  男たちは、小屋の中庭の中で、小屋を取り巻く。
 
-_FL_BEGIN
+
 (15) 小屋の中
-_FL_END
+
 
  小屋の中は、もっと真剣な雰囲気である。行列は、唄を歌い、叫び声をあげながら
 小屋の中にはいる。合図とともに、弓で聖なる中心のはしらに触る。一度、小屋の外
@@ -371,16 +371,16 @@ _FL_END
 
  再び小屋の中にはいる。がさがさの表面をした葉を嘗めさせられ、下から血を出す。
 
-_FL_BEGIN
+
 (15.1) 夕暮れ時
-_FL_END
+
 at dusk (214)
 
  角笛が聞こえる。男たちが集落を出、少年のいる小屋へと集まる。
 
-_FL_BEGIN
+
 (15.2) 晩−−教訓の時
-_FL_END
+
 as the evening wears on, ... (214)
 
  教訓を含んだ話、唄を少年に聞かせる。様々な禁忌を侵した際の危険についての教
@@ -405,18 +405,18 @@ illness, abnormal growth, or death. (214)
 
  ときどき、ペニスにイラクサがこすりつけられる。
 
-_FL_BEGIN
+
 (15.3) 夜明け前−−女によって殺されていった男たちの話
-_FL_END
+
 Toward dawn ... (215)
 
  女によって殺された男たちの話。廻りにいた男たちは、悲しみ、泣く。
 
  「おわった」という叫び声。
 
-_FL_BEGIN
+
 (16) 小屋の外−−女たち（２１５ー６）
-_FL_END
+
 
  小屋の廻りは女性たちが取り巻いている。彼女たちは、異装束をつけている（クワ
 ーシがンラアセふうに装っていたりする）。
@@ -442,20 +442,20 @@ The Third Day (217)
 
  Early mornig activities are varied. ... (217)
 
-_FL_BEGIN
+
 (17) 少年の盛装
-_FL_END
+
 
  男たち集まり、訪れる。行列をつくって、男の小屋へ。村へ。
 
-_FL_BEGIN
+
 (18) 女たちの贈与：新しい下げ皮袋、パンダナスの寝袋、矢 
-_FL_END
+
 の入れ物。
 
-_FL_BEGIN
+
 (19) 少年たちは自由に歩き回る。
-_FL_END
+
 これからは、男の家中心の生活となる。
 
 ## ウンマンラ儀礼における「性」対立（２１８）
@@ -480,9 +480,9 @@ ten to twelve years old. (219)
  男の肉体的成長は、必ず、知的・イデオロギー的成長に伴われていなくてはならな
 い。
 
-_FL_BEGIN
+
 (20) 教育としての儀礼
-_FL_END
+
 
  ウンマンラ儀礼は少年たちの知識獲得のプロセスを加速することを目的としている
 。この儀礼は、「教育」に関わるのだ。単に情報を伝えるという意味のみならず、少年
@@ -493,9 +493,9 @@ knowledge and a view of the world which will, in the end, "make men of them."
 It is concerned with education, not only in the sense of transmitting
 information but, ..., with the molding of a youth's character.
 
-_FL_BEGIN
+
 (21) 教説の中心テーマ：脆弱な男、強力な敵
-_FL_END
+
 
  「我々『本当の男性』は脆弱な存在である。一緒になって、知識と力を共有するこ
 とによってのみ、我々を破壊することのできるような力に抵抗して、世界を支配でき
@@ -505,9 +505,9 @@ _FL_END
 knowledge and our strength, can we prevail against the forces that by thir
 very nature can destroy us. (220)
 
-_FL_BEGIN
+
 (21.1) 敵の力＝血
-_FL_END
+
 
  彼らの恐れる敵の力は：女であり、女の領域であり、そして「血」である。
 
@@ -516,9 +516,9 @@ and anything that contains their essence, especially their blood. (220)
 
 ### 儀礼の中の敵意
 
-_FL_BEGIN
+
 (22) 男と女の分離
-_FL_END
+
 
  単に（例えば）身体装飾を別々に行うだけでなく、（たとえ）一緒に歌ったり、踊
 ったりするときでも、別々のグループでそうする。
@@ -527,9 +527,9 @@ _FL_END
 wat apart, but when they do come together, as on the first and final mornings,
 they sing and dance as separate groups. (220)
 
-_FL_BEGIN
+
 (23) 男と女の敵意
-_FL_END
+
 
  女が何度も「行列」を攻撃する。
 
@@ -685,13 +685,13 @@ SEXUAL OPPOSITION IN THE KWAASI CEREMONY (227)
 
 ### 新しい責任
 
-_FL_BEGIN
-(24) 農耕等の仕事の責任
-_FL_END
 
-_FL_BEGIN
+(24) 農耕等の仕事の責任
+
+
+
 (25) 新しく獲得された力に対する責任
-_FL_END
+
 
  クワーシになってはじめて男の脆弱さを知る。
 
@@ -738,17 +738,17 @@ public (none inside)     private (none outside)
 
 ### 補完性を見るための三つの疑問
 
-_FL_BEGIN
+
 (26) なぜ女も鼻血を出すか
-_FL_END
 
-_FL_BEGIN
+
+
 (27) なぜ女が男の秘密の厳守に協同するだけではなく、黙認するのか
-_FL_END
 
-_FL_BEGIN
+
+
 (28) どれだけ、性の対立が内化されているか
-_FL_END
+
 
 ### 男の儀礼
 
@@ -771,9 +771,9 @@ society, and to make of children the adults that society needs... (231)
 
 ### 成人のステップ（男と女）
 
-_FL_BEGIN
+
 (29) ンラームワ→ウンマンラ
-_FL_END
+
 
  a public preparatory stage, with women playing a central role;
 
@@ -782,21 +782,21 @@ performed exclusively by men;
 
  + and the public social recognition of the new initiates. (232)
 
-_FL_BEGIN
+
 (29.1) 公的な準備段階：女性が中心的役割
-_FL_END
 
-_FL_BEGIN
+
+
 (29.2) 私的な段階：鼻血だし、男の小屋での教訓：まったく男だけ
-_FL_END
 
-_FL_BEGIN
+
+
 (29.3) 公的な段階：若者の公的認知
-_FL_END
 
-_FL_BEGIN
+
+
 (30) イアータラ→クワーシ
-_FL_END
+
 
  a private period of instruction in the seclusion house, carrrid out by
 women but with female transvestite "men" playing important roles;
@@ -806,19 +806,19 @@ charge;
 
  + and public feasting, with additional rituals performed by men. (232)
 
-_FL_BEGIN
+
 (30.1) 私的な段階：分離小屋での教訓：女性によって運営（男装した女性 
-_FL_END
+
 が重要な役割）
 
-_FL_BEGIN
+
 (30.2) 半私的な段階：鼻血だし：子供だけが入っては行けない（男がとり 
-_FL_END
+
 しきる）
 
-_FL_BEGIN
+
 (30.3) 公的な段階：祭り、男によって行われる付加的な儀礼
-_FL_END
+
 
 ### まとめ
 
