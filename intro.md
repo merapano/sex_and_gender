@@ -1,4 +1,10 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
+---
+title: 序論 --- 自然と文化
+author: 中川敏
+draft: true
+date: 2020-09-29
+updated: [2024-05-25]
+---
 
 # はじめに
 
@@ -36,11 +42,3 @@
 
 # 文化
 
-
----
-title: 序論 --- 自然と文化
-author: 中川敏
-draft: true
-date: 2020-09-29
-
----
