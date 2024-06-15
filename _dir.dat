@@ -2,12 +2,11 @@
 # dirno: 00
 # root:/anthrop/class-md/sex_and_gender
 # version: v0.1.1
-# license: CC0
+# license: MIT License
 #end
 
 README:この本がいかにして生まれたか:文化の中の生と死::P
-SUMMARY:このプロジェクトの全ファイル:文化の中の生と死::V
-LICENSE:License:Creative Commons BY-NC-ND 4.0::V
+LICENSE:MIT License::V
 index:目次:::P
 intro:序:大学にはいったばかりの君へ::P
 feminism:資本制と家事労働:上野千鶴子をたどる::P
