@@ -1,11 +1,10 @@
 ---
-title: "セックスとジェンダー"
-author: ""
+title: セックス、ジェンダー
+author: "Satoshi Nakagawa"
 documentclass: bxjsarticle
-lang: ja-JP
 created:
 date: 
-nocite: 
+nocite: |
 ---
     
 <!---
