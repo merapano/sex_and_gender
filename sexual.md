@@ -2,10 +2,11 @@
 title: "性"
 author: ""
 documentclass: bxjsarticle
-lang: ja-JP
 created:
 date: 
-nocite: 
+updated: 2024-06-16
+nocite: |
+  @mead-sex,
 ---
     
 <!---
