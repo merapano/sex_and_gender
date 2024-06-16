@@ -3,7 +3,7 @@ title: セックスとジェンダー
 subtitle: 文化の中の自然と文化
 author: 中川敏
 date: 2020-09-20
-updated: 2024-06-15
+updated: 2024-06-16
 nocite: |
 ---
 
